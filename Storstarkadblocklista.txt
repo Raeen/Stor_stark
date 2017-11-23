@@ -1,3 +1,12 @@
+[Adblock Plus 2.0]
+! Title: Stor stark svensk Adblock lista
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/Raeen/Stor_stark
+! Description: Ett filter för att blockera svensk reklam och annat bös som invaderar internet
+! License: GPLv3
+
+! General third party ads, tracking, annoyances
+
 www.di.se##.di_message-space--logged-out.di_message-space
 www.prisjakt.nu##.inline-panorama-ad
 www.prisjakt.nu##.black-friday
