@@ -49,3 +49,1706 @@ www.eater.com###notice
 www.vox.com###notice
 www.dn.se###pwOverlay
 
+! 2016-12-12, 08:06:13 https://www.ft.com/
+www.ft.com##.o-cookie-message--active
+
+! 2016-12-12, 08:06:18 https://www.ft.com/
+www.ft.com##.visible.n-header__marketing-promo
+
+! 2016-12-12, 08:06:29 https://www.ft.com/
+www.ft.com##.o-header__container > .o-header__nav-list--right.o-header__nav-list > .o-header__nav-item:nth-of-type(2)
+
+! 2016-12-12, 08:06:34 https://www.ft.com/
+www.ft.com##.o-header__container > .o-header__nav-list--right.o-header__nav-list > .o-header__nav-item:nth-of-type(1) > .o-header__nav-link
+
+! 2016-12-12, 08:06:38 https://www.ft.com/
+www.ft.com##.o-header__top-link--myft.o-header__top-link
+
+! 2016-12-12, 08:06:49 https://www.ft.com/
+www.ft.com##.o-header__nav-item--expanded.o-header__nav-item > .o-header__nav-button
+
+! 2016-12-12, 08:06:53 https://www.ft.com/
+www.ft.com##.o-header__nav > .o-header__nav-list--right.o-header__nav-list > .o-header__nav-item:nth-of-type(1) > .o-header__nav-link
+
+! 2016-12-12, 16:01:07 https://www.facebook.com/
+www.facebook.com###u_0_1
+
+! 2016-12-13, 01:00:13 https://www.ft.com/content/ec89a34a-bc6f-11e6-8b45-b8b81dd5d080
+www.ft.com##.o-email-only-signup--coloured-background.o-email-only-signup--inline.o-email-only-signup.article__light-signup
+
+! 2016-12-14, 23:38:17 https://www.ft.com/content/dcdb43d4-bd52-11e6-8b45-b8b81dd5d080
+www.ft.com##.n-welcome-message--static.n-welcome-banner
+
+! 2016-12-15, 00:22:55 https://www.google.se/search?sclient=psy-ab&btnG=S%C3%B6k&q=java+running+on+mac+100%25+cpu+usage#
+www.google.se##.vk_c._Udi
+
+! 2016-12-15, 01:27:06 https://www.reddit.com/r/politics/
+www.reddit.com##.cookie-infobar.with-btn.with-icon.md-container-small.reddit-infobar
+
+! 2016-12-15, 10:29:22 https://www.facebook.com/
+www.facebook.com###u_0_n
+
+! 2016-12-15, 11:20:13 https://www.fass.se/LIF/startpage
+www.fass.se###id3
+
+! 2016-12-15, 11:20:21 https://www.fass.se/LIF/startpage;jsessionid=2E4B-GOOaS3K9jYGgU6aQCRgUMaaVbOG8CBf9CTQK_boyg8d1HlX!1938605630?userType=0
+www.fass.se###id9
+
+! 2016-12-15, 11:21:29 https://www.fass.se/LIF/product;jsessionid=2E4B-GOOaS3K9jYGgU6aQCRgUMaaVbOG8CBf9CTQK_boyg8d1HlX!1938605630?9&userType=0&nplId=20080918000051&docType=30&docTypeDynTab=30
+www.fass.se###id8f
+
+! 2016-12-15, 11:23:32 https://www.fass.se/LIF/substance;jsessionid=2E4B-GOOaS3K9jYGgU6aQCRgUMaaVbOG8CBf9CTQK_boyg8d1HlX!1938605630?userType=0&substanceId=IDE4POIFUCF5GVERT1
+www.fass.se###idc2
+
+! 2016-12-15, 11:24:29 https://www.fass.se/LIF/product;jsessionid=2E4B-GOOaS3K9jYGgU6aQCRgUMaaVbOG8CBf9CTQK_boyg8d1HlX!1938605630?13&userType=0&nplId=20090205000053&docType=30&docTypeDynTab=30
+www.fass.se###idf9
+
+! 2016-12-15, 11:28:55 https://www.fass.se/LIF/product;jsessionid=2E4B-GOOaS3K9jYGgU6aQCRgUMaaVbOG8CBf9CTQK_boyg8d1HlX!1938605630?18&userType=0&nplId=19971114000119&docType=7&docTypeDynTab=30
+www.fass.se###id13f
+
+! 2016-12-15, 11:58:48 https://encrypted.google.com/search?hl=en&q=magasin%20d%27antiquit%C3%A9%20nice
+encrypted.google.com##.gb_g.gb_ga
+
+! 2016-12-16, 16:41:48 http://www.svd.se/johaugs-avstangning-forlangd/om/johaug-fast-for-dopning
+!www.svd.se###AdWrapper-id-position
+
+
+! 2016-12-16, 16:42:08 http://www.svd.se/johaugs-avstangning-forlangd/om/johaug-fast-for-dopning
+!www.svd.se##.Teaser-adLabel--native.Teaser-adLabel
+
+! 2016-12-16, 16:42:40 http://www.svd.se/johaugs-avstangning-forlangd/om/johaug-fast-for-dopning
+!www.svd.se###AdWrapper-id-position-id--9604f9c0-99d6-4ec4-9d97-3681da3db6c5--default-context-article--top-1
+
+! 2016-12-16, 16:43:38 http://www.svd.se/johaugs-avstangning-forlangd/om/johaug-fast-for-dopning
+!www.svd.se##.ContentLayout--extraColumnBorder.ContentLayout--bordered.ContentLayout.StartLayout-section--noMargin.StartLayout-section > .ContentLayout-mainColumn
+
+! 2016-12-17, 01:07:52 https://twitter.com/wikileaks
+twitter.com##.eu-cookie-notice.Banner
+
+! 2016-12-17, 01:31:23 https://www.facebook.com/
+www.facebook.com##._4zp_._5pcr._3j6k
+
+! 2016-12-17, 11:03:20 http://www.gp.se/nyheter/g%C3%B6teborg/ber%C3%A4ttelsen-om-abbe-p%C3%A5-b%C3%A4nken-1.4050547
+www.gp.se###stampenCookieInformationContainer
+
+! 2016-12-17, 12:57:05 http://www.svd.se/
+!www.svd.se###AdWrapper-id-position-id--88bd7534-70e1-427d-9a54-2ce047526b93--ettan-index--top-1
+
+! 2016-12-17, 12:57:12 http://www.svd.se/
+!www.svd.se##.RightNow-inner
+
+! 2016-12-17, 12:57:17 http://www.svd.se/
+!www.svd.se##.RightNow
+
+! 2016-12-17, 12:57:22 http://www.svd.se/
+!www.svd.se##.u-trailerThreeQuarters.u-paddingNano.u-borderBottom.u-borderTop
+
+! 2016-12-17, 12:57:28 http://www.svd.se/
+!www.svd.se##.ExtraNavigation-menu--secondary.ExtraNavigation-menu
+
+! 2016-12-17, 12:57:38 http://www.svd.se/
+!www.svd.se##.ExtraNavigation
+
+! 2016-12-17, 12:57:55 http://www.svd.se/
+!www.svd.se###AdWrapper-id-position-id--1013f336-a225-42ff-9b7e-b98e5b3713e6--ettan-index--in-between-top-1
+
+! 2016-12-17, 12:58:06 http://www.svd.se/
+!www.svd.se###Explainer
+
+! 2016-12-17, 12:58:19 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.AdOuterMostContainer.ContentLayout--noExtraColumn.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(2)
+
+! 2016-12-17, 12:58:35 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(4) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-space--negativeBottom.Grid-border--top.Grid-item
+
+! 2016-12-17, 12:58:43 http://www.svd.se/
+!www.svd.se###AdWrapper-id-position-id--0f9b5a26-5b27-4db0-8b1f-ce668f772616--ettan-index--in-between-top-2
+
+! 2016-12-17, 12:58:51 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.AdOuterMostContainer.ContentLayout--noExtraColumn.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(5)
+
+! 2016-12-17, 12:59:03 http://www.svd.se/
+!www.svd.se###AdWrapper-id-position-id--46f25552-f1dd-44ef-a7fc-d88043299f7c--ettan-index--in-between-top-3
+
+! 2016-12-17, 12:59:22 http://www.svd.se/
+||www.aftonbladet.se/assets/jsp/external/svd/svdSportbladetTVBox.jsp?v=1$subdocument
+
+! 2016-12-17, 12:59:28 http://www.svd.se/
+www.svd.se##.Grid-border--top.Grid-item:nth-of-type(3) > .Grid-m-break.Grid-break--vertical.Grid-break > .FlexEmbed
+
+! 2016-12-17, 12:59:35 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(8) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(3)
+
+! 2016-12-17, 12:59:43 http://www.svd.se/
+!www.svd.se###AdWrapper-id-position-id--e6762589-8e99-42d6-b7f1-ad4c7313f599--ettan-index--in-between-top-4
+
+! 2016-12-17, 12:59:53 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.AdOuterMostContainer.ContentLayout--noExtraColumn.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(9)
+
+! 2016-12-17, 13:00:04 http://www.svd.se/
+!www.svd.se##.ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-space--negativeBottom.Grid-border--top.Grid-item > .theme-Native.Teaser--fullAdLabel.Teaser--kilo.Teaser > .Teaser-link
+
+! 2016-12-17, 13:00:11 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(10) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-space--negativeBottom.Grid-border--top.Grid-item
+
+! 2016-12-17, 13:00:20 http://www.svd.se/
+!www.svd.se###AdWrapper-id-position-id--6328ecb7-2f02-497e-824d-80b8bf5e6023--ettan-index--in-between-top-5
+
+! 2016-12-17, 13:00:26 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.AdOuterMostContainer.ContentLayout--noExtraColumn.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(11)
+
+! 2016-12-17, 13:00:34 http://www.svd.se/
+!www.svd.se###AdWrapper-id-position-id--4f1faae1-3b9c-41d1-8066-d67c2e7d714c--ettan-index--index-rectangle-1
+
+! 2016-12-17, 13:00:42 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(12) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(3)
+
+! 2016-12-17, 13:00:49 http://www.svd.se/
+!www.svd.se###AdWrapper-id-position-id--0b58ccc4-16fb-431d-8089-168c142cd196--ettan-index--in-between-top-6
+
+! 2016-12-17, 13:00:59 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.AdOuterMostContainer.ContentLayout--noExtraColumn.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(13)
+
+! 2016-12-17, 13:01:06 http://www.svd.se/
+!www.svd.se###AdWrapper-id-position-id--16fcc2d2-9aae-4deb-aab5-e4d3412ab1a8--ettan-index--index-rectangle-2
+
+! 2016-12-17, 13:01:13 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(14) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(3)
+
+! 2016-12-17, 13:01:31 http://www.svd.se/
+||www.aftonbladet.se/assets/jsp/external/svd/svdSportbladetBoxV2.jsp?v=1$subdocument
+
+! 2016-12-17, 13:01:39 http://www.svd.se/
+!www.svd.se##.Grid-border--top.Grid-item:nth-of-type(4) > .Grid-m-break.Grid-break--vertical.Grid-break > .FlexEmbed
+
+! 2016-12-17, 13:01:50 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.AdOuterMostContainer.ContentLayout--noExtraColumn.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(7)
+
+! 2016-12-17, 13:02:10 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section--noMargin.StartLayout-section > .ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-space--negativeBottom.Grid-border--top.Grid-item > .theme-Native.Teaser--fullAdLabel.Teaser--kilo.Teaser > .Teaser-link
+
+! 2016-12-17, 13:02:16 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section--noMargin.StartLayout-section > .ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-space--negativeBottom.Grid-border--top.Grid-item > .theme-Native.Teaser--fullAdLabel.Teaser--kilo.Teaser
+
+! 2016-12-17, 13:02:24 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section--noMargin.StartLayout-section > .ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-space--negativeBottom.Grid-border--top.Grid-item
+
+! 2016-12-17, 13:02:47 http://www.svd.se/
+!www.svd.se##.AdOuterMostContainer.Container--ad.Container
+
+! 2016-12-17, 13:03:17 http://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section--noMargin.StartLayout-section > .ContentLayout-metaColumn
+
+! 2016-12-17, 13:03:37 http://www.svd.se/
+!www.svd.se##.iOsAppHide.StartLayout-b2cbanner.B2CBanner
+
+! 2016-12-17, 13:04:32 http://www.dn.se/
+www.dn.se##.sponsored-teaser:nth-of-type(2)
+
+! 2016-12-17, 13:04:49 http://www.dn.se/
+www.dn.se##.sponsored-teaser:nth-of-type(4)
+
+! 2016-12-18, 02:19:05 https://www.theatlantic.com/notes/2016/12/remember-the-thucydides-trap-the-chinese-do-trump-clearly-does-not/511013/
+www.theatlantic.com###note-511013 > .continue-reading-parent
+
+! 2016-12-18, 02:29:19 http://thenextweb.com/
+thenextweb.com##.cookieConsent-popOut
+
+! 2016-12-18, 23:25:02 https://encrypted.google.com/search?hl=en&q=elektronik%C3%A5tervinning%20bangladesh
+encrypted.google.com##.gb_g.gb_Bc.gb_Kc.gb_Jc > .gb_ga
+
+! 2016-12-18, 23:44:32 https://www.ft.com/books
+www.ft.com##.n-util-hide-core.o-email-only-signup--coloured-background.o-email-only-signup.light-signup
+
+! 2016-12-18, 23:53:02 http://www.gp.se/nyheter/v%C3%A4rlden/beth-goodier-22-har-sovit-i-tre-m%C3%A5nader-1.4054493
+www.gp.se##.bottom-bar--sharing
+
+! 2016-12-19, 16:04:19 https://byraneffecta.se/#/home
+byraneffecta.se##.mobiltop.container > .ng-scope:nth-of-type(1)
+
+! 2016-12-19, 16:51:01 https://www.linkedin.com/pulse/where-internet-going-you-think-chris-wellens
+www.linkedin.com###global-alert-queue
+
+! 2016-12-23, 02:31:51 http://www.windowscentral.com/
+www.windowscentral.com##.msg-container
+
+! 2016-12-23, 02:31:56 http://www.windowscentral.com/
+||www.windowscentral.com/sites/windowscentral.com/files/images/getadmiral/windows-central-background.jpg$image
+
+! 2016-12-23, 02:32:00 http://www.windowscentral.com/
+www.windowscentral.com##.gated-container
+
+! 2016-12-24, 01:05:50 http://www.redbull.com/uk/en/games/stories/1331835077309/best-european-youtuber-poll
+www.redbull.com##.cookies.site-message
+
+! 2016-12-24, 09:43:35 https://www.facebook.com/
+www.facebook.com##._4nqn
+
+! 2016-12-24, 09:43:47 https://www.facebook.com/
+www.facebook.com##._2xn._2xr > .ego_unit._58d6._6a
+
+! 2016-12-24, 09:43:56 https://www.facebook.com/
+www.facebook.com##._2xq
+
+! 2016-12-24, 09:44:04 https://www.facebook.com/
+www.facebook.com###u_ps_0_4_0
+
+! 2016-12-24, 09:44:12 https://www.facebook.com/
+www.facebook.com##.egoOrganicColumn.t_wth00bzt2._1snm._5qrt.pagelet.ego_column:nth-of-type(1) > .ego_section > .uiSideHeader.mbs.uiHeaderTopBorder.uiHeader
+
+! 2016-12-24, 09:45:01 https://www.facebook.com/
+www.facebook.com##._2xq
+
+! 2016-12-24, 09:45:09 https://www.facebook.com/
+www.facebook.com##.uiSideHeader.mbs.uiHeaderTopBorder.uiHeader
+
+! 2016-12-24, 09:45:15 https://www.facebook.com/
+www.facebook.com###u_y_0
+
+! 2016-12-24, 15:31:46 https://www.facebook.com/
+www.facebook.com###u_ps_jsonp_3_3_0
+
+! 2016-12-24, 15:31:57 https://www.facebook.com/
+www.facebook.com##.egoOrganicColumn.t_wth00bzt2._1snm._5qrt.pagelet.ego_column:nth-of-type(3) > .ego_section > .ego_unit_container
+
+! 2016-12-25, 00:07:37 https://www.facebook.com/
+www.facebook.com###u_jsonp_20_15
+
+! 2016-12-25, 01:06:26 https://www.facebook.com/
+www.facebook.com###u_jsonp_36_2 > ._5pcr.userContentWrapper
+
+! 2016-12-25, 11:33:56 https://www.facebook.com/
+www.facebook.com###u_ps_0_0_b > ._5pcr.userContentWrapper > ._1w_m._1dwg
+
+! 2016-12-25, 18:56:43 http://www.svd.se/
+!www.svd.se##.Grid-border--top.Grid-item:nth-of-type(5) > .theme-Native.Teaser--fullAdLabel.Teaser--kilo.Teaser
+
+! 2016-12-25, 20:24:44 http://www.bridgemanimages.com/en-GB/search?filter_text=troll&filter_group=all&filter_region=SWE
+www.bridgemanimages.com###loginGoadModalWindow
+
+! 2016-12-26, 00:19:27 http://www.deviantart.com/browse/all/?order=15
+||st.deviantart.net/minish/block-notice/back.png$image
+
+! 2016-12-26, 00:19:31 http://www.deviantart.com/browse/all/?order=15
+www.deviantart.com##.banner-wrap
+
+! 2016-12-26, 00:19:42 http://www.deviantart.com/browse/all/?order=15&offset=5
+www.deviantart.com##.block-notice
+
+! 2016-12-26, 00:26:04 http://natehallinanart.deviantart.com/art/Distance-649104772
+natehallinanart.deviantart.com###block-notice
+
+! 2016-12-26, 15:00:05 https://www.reddit.com/r/politics/
+www.reddit.com##.newsletter-container.newsletterbar.infobar
+
+! 2016-12-26, 16:11:12 https://www.dropbox.com/s/4s0x88sp49hxm4n/en_Lollipop_2015-01-06.png
+www.dropbox.com###top-notification-bar-container
+
+! 2016-12-26, 18:02:56 http://www.svd.se/kis-lakarforening-konsulter-ska-inte-styra-varden/om/nya-karolinska
+!www.svd.se##.u-noPrint.Body-pull--fullWidth.Body-pull--bordered.Body-pull:nth-of-type(4)
+
+! 2016-12-27, 12:59:51 http://www.svd.se/efter-urd--dessa-skador-tacker-inte-forsakringen/om/stormen-urd
+!www.svd.se###AdWrapper-id-position-id--d13bd0e1-582c-4752-989b-a776d10962a5--naringsliv-context-article--article-rectangle-1
+
+! 2016-12-27, 13:40:26 http://www.dn.se/
+www.dn.se##.sponsored-teaser
+
+! 2016-12-27, 13:40:54 http://www.dn.se/
+www.dn.se##.js-custom-html-widget.custom-html-widget:nth-of-type(6)
+
+! 2016-12-27, 13:44:17 https://archive.org/
+archive.org###donate-banner
+
+! 2016-12-27, 15:42:53 http://www.prisjakt.nu/
+www.prisjakt.nu###ad_panorama_top
+
+! 2016-12-27, 15:44:28 http://www.prisjakt.nu/
+www.prisjakt.nu###ad_panorama_top
+
+! 2016-12-27, 15:44:33 http://www.prisjakt.nu/
+www.prisjakt.nu##.inner
+
+! 2016-12-27, 15:44:58 http://www.appartager.com/colocation-nice/ideal-student-charming-flat-promenade-anglais/H160412144716595?utm_source=room_push&utm_medium=email_internal&utm_campaign=automation&LC=L161210203110664
+www.appartager.com###overlay-lookSignup
+
+! 2016-12-27, 15:45:03 http://www.appartager.com/colocation-nice/ideal-student-charming-flat-promenade-anglais/H160412144716595?utm_source=room_push&utm_medium=email_internal&utm_campaign=automation&LC=L161210203110664
+www.appartager.com###signupLightBox
+
+! 2016-12-27, 15:51:57 http://www.prisjakt.nu/kategori.php?k=1242
+www.prisjakt.nu###ad_panorama_top
+
+! 2016-12-27, 15:52:06 http://www.prisjakt.nu/kategori.php?k=1242
+www.prisjakt.nu###confirm_cookie_use
+
+! 2016-12-27, 15:55:36 https://encrypted.google.com/search?hl=en&q=force%20cache%20loading
+encrypted.google.com##.gb_g.gb_Bc.gb_8c
+
+! 2016-12-27, 16:05:12 http://www.slate.com/articles/technology/future_tense/2016/12/how_the_2011_hack_of_diginotar_changed_the_internet_s_infrastructure.html
+www.slate.com###newsletter-1100
+
+! 2016-12-27, 19:06:57 http://www.svd.se/kraftsamling-mot-falska-nyheter-riskerar-att-misslyckas/om/falska-nyheter
+!www.svd.se##.u-trailerDouble.ArticlePaywall.has-bigBlueBottom.Well--noVerticalpadding.Well--outlined.Well--light.Well
+
+! 2016-12-27, 22:48:31 http://edition.cnn.com/2016/12/27/entertainment/carrie-fisher-obit-star-wars/index.html
+edition.cnn.com##.user-msg--container
+
+! 2016-12-27, 22:48:40 http://edition.cnn.com/2016/12/27/entertainment/carrie-fisher-obit-star-wars/index.html
+edition.cnn.com##.user-msg-flexbox.headerless.user-msg
+
+! 2016-12-28, 02:15:35 https://www.youtube.com/watch?v=ze_uxxFJTvE
+www.youtube.com###ticker-content
+
+! 2016-12-28, 02:30:23 https://www.smitegame.com/
+www.smitegame.com##.slide-in.sleeve
+
+! 2016-12-28, 02:47:24 https://addons.mozilla.org/en-US/firefox/addon/controle-de-scripts/
+addons.mozilla.org###site-welcome
+
+! 2016-12-28, 12:58:02 https://www.rt.com/usa/372026-donald-trump-twitter-cnn/
+www.rt.com##.extension-browser__chrome.extension-browser
+
+! 2016-12-28, 12:58:15 https://www.rt.com/usa/372026-donald-trump-twitter-cnn/
+www.rt.com##.header__social > .socials
+
+! 2016-12-28, 12:59:54 https://www.rt.com/usa/372026-donald-trump-twitter-cnn/
+www.rt.com##.footer__social > .socials
+
+! 2016-12-28, 13:00:38 https://www.rt.com/shows/
+www.rt.com##.app-offer
+
+! 2016-12-28, 13:22:44 http://www.dn.se/
+||cdn03.dn-static.se/dnse/img/account-information-bg.jpg$image
+
+! 2016-12-28, 13:22:53 http://www.dn.se/
+www.dn.se##.account-information--visible.account-information--login.js-account-information.account-information
+
+! 2016-12-28, 13:23:27 http://www.dn.se/
+www.dn.se##.js-custom-html-widget.custom-html-widget:nth-of-type(5) > .hidden.visible-md-block
+
+! 2016-12-28, 14:08:28 https://www.foreignaffairs.com/articles/united-states/2016-03-21/making-america-great-again
+www.foreignaffairs.com##.init-facebook-icon-processed.ttright.tooltip.icon-facebook.article-tools-item-facebook.article-tools-item > .article-tools-item__icon > svg > path
+
+! 2016-12-28, 14:08:33 https://www.foreignaffairs.com/articles/united-states/2016-03-21/making-america-great-again
+www.foreignaffairs.com##.init-twitter-icon-processed.ttright.tooltip.icon-twitter.article-tools-item-twitter.article-tools-item > .article-tools-item__icon > svg > path
+
+! 2016-12-28, 14:08:44 https://www.foreignaffairs.com/articles/united-states/2016-03-21/making-america-great-again
+www.foreignaffairs.com##.l-3up--1
+
+! 2016-12-28, 20:30:14 https://www.foreignaffairs.com/articles/united-states/2016-03-21/making-america-great-again
+www.foreignaffairs.com##.site-header-nav__social-icon:nth-of-type(4)
+
+! 2016-12-28, 20:30:24 https://www.foreignaffairs.com/articles/united-states/2016-03-21/making-america-great-again
+www.foreignaffairs.com##.site-header-nav__social-icon:nth-of-type(5)
+
+! 2016-12-29, 01:51:18 http://www.prisjakt.nu/
+www.prisjakt.nu###ad_panorama_top
+
+! 2016-12-29, 01:51:22 http://www.prisjakt.nu/
+www.prisjakt.nu##.inner
+
+! 2016-12-29, 13:04:39 https://www.facebook.com/common/invalid_request.php
+www.facebook.com###u_0_0
+
+! 2016-12-29, 13:07:04 https://www.facebook.com/BJ.chaurasia?fref=nf
+www.facebook.com##.pop_container_advanced
+
+! 2016-12-29, 13:07:09 https://www.facebook.com/BJ.chaurasia?fref=nf
+www.facebook.com###dialog_0
+
+! 2016-12-29, 13:58:10 https://www.youtube.com/
+www.youtube.com##.ytd-consent-bump-renderer-0.x-scope.ytd-masthead.style-scope
+
+! 2016-12-29, 14:53:40 https://lakareutangranser.se/bli-faltarbetare/ansokningsprocessen/innan-du-ansoker
+lakareutangranser.se##.c-cookies
+
+! 2016-12-29, 15:38:50 http://www.prisjakt.nu/
+www.prisjakt.nu###confirm_cookie_use
+
+! 2016-12-29, 15:38:58 http://www.prisjakt.nu/
+www.prisjakt.nu###ad_panorama_top
+
+! 2016-12-29, 17:04:31 http://www.prisjakt.nu/produkt.php?e=3893709#rparams=ss=lenovo%20thinkpad
+www.prisjakt.nu##.inner
+
+! 2016-12-29, 17:04:37 http://www.prisjakt.nu/kategori.php?k=353
+www.prisjakt.nu###ad_panorama_top
+
+! 2016-12-29, 17:04:58 http://www.prisjakt.nu/kategori.php?k=353
+www.prisjakt.nu###confirm_cookie_use
+
+! 2016-12-29, 22:46:55 https://www.project-syndicate.org/onpoint/open-society-needs-defending-by-george-soros-2016-12
+www.project-syndicate.org##.sticky--is-stuck.support-ps.sticky__footer > .row
+
+! 2016-12-29, 22:47:28 https://www.project-syndicate.org/
+www.project-syndicate.org##.support-ps.sticky__footer > .row
+
+! 2016-12-29, 22:47:59 https://www.project-syndicate.org/
+www.project-syndicate.org##.columns.small-4.show-large.icon-group
+
+! 2016-12-30, 02:31:34 https://www.change.org/p/jimmy-wales-clean-up-the-wikipedia-acupuncture-page-to-reflect-medical-and-scientific-consensus
+www.change.org##.flash-message-announcement.flash-message
+
+! 2016-12-30, 02:48:04 http://www.commondreams.org/news/2016/12/09/fox-meet-henhouse-trump-offers-goldman-sachs-president-top-economic-post/
+www.commondreams.org###shr_canvas2 > .ng-scope > .badge-counter.shareaholic-ui.shareaholic-share-buttons-container > .shareaholic-ui.shareaholic-share-buttons-wrapper > .shareaholic-share-buttons
+
+! 2016-12-30, 02:48:19 http://www.commondreams.org/news/2016/12/09/fox-meet-henhouse-trump-offers-goldman-sachs-president-top-economic-post/
+www.commondreams.org###block-block-9
+
+! 2016-12-30, 13:11:54 https://www.extremetech.com/extreme/241150-facebooks-censorship-regime-dangerous-gamble
+www.extremetech.com##.hide-for-medium-only.hide-for-small-only > .social
+
+! 2016-12-30, 13:12:51 https://www.extremetech.com/extreme/241150-facebooks-censorship-regime-dangerous-gamble
+www.extremetech.com##.left.share_menu
+
+! 2016-12-30, 13:17:19 http://www.svd.se/polisens-ledning-maste-ta-strid-for-datalagring/om/debatt
+!www.svd.se##.is-sticky.js-sticky > .ArticleLayout-meta > .Meta--column.Meta > .Meta-part--share.Meta-part > .u-desktop-visible.u-hidden
+
+! 2016-12-30, 13:17:28 http://www.svd.se/polisens-ledning-maste-ta-strid-for-datalagring/om/debatt
+!www.svd.se##.is-sticky.js-sticky > div:nth-of-type(2) > .u-desktop-visible.u-hidden.ArticleLayout-b2cBanner.B2CBanner
+
+! 2016-12-30, 13:22:06 http://www.svd.se/polisens-ledning-maste-ta-strid-for-datalagring/om/debatt
+!www.svd.se###polisens-ledning-maste-ta-strid-for-datalagring > .Container--withColumn.Container--section.Container > .ContentLayout--article--main.ContentLayout--article.ContentLayout > .ContentLayout-mainColumn > .u-noPrint.u-leaderSmall.u-trailerNormal.Grid-space--smallBottom.Grid-space--negativeTop.Grid
+
+! 2016-12-30, 13:22:17 http://www.svd.se/polisens-ledning-maste-ta-strid-for-datalagring/om/debatt
+!www.svd.se###polisens-ledning-maste-ta-strid-for-datalagring > .Container--withColumn.Container--section.Container > .ContentLayout--article--main.ContentLayout--article.ContentLayout > .ContentLayout-mainColumn > .ArticleLayout-footer > .u-noPrint.ArticleLayout-share
+
+! 2016-12-30, 13:22:53 http://www.svd.se/annie-loof-regeringen-maste-agera-mot-valdet/om/debatt
+!www.svd.se###annie-loof-regeringen-maste-agera-mot-valdet > .Container--withColumn.Container--section.Container > .ContentLayout--article--main.ContentLayout--article.ContentLayout > .ContentLayout-mainColumn > .u-noPrint.u-leaderSmall.u-trailerNormal.Grid-space--smallBottom.Grid-space--negativeTop.Grid
+
+! 2016-12-30, 13:23:16 http://www.svd.se/annie-loof-regeringen-maste-agera-mot-valdet/om/debatt
+!www.svd.se##.u-noPrint.ArticleLayout-share
+
+! 2016-12-30, 13:23:33 http://www.svd.se/jag-vidhaller-ror-inte-min-kottbit/om/debatt
+!www.svd.se## .u-noPrint.u-leaderSmall.u-trailerNormal.Grid-space--smallBottom.Grid-space--negativeTop.Grid
+
+! 2016-12-30, 13:23:54 http://www.svd.se/jag-vidhaller-ror-inte-min-kottbit/om/debatt
+!www.svd.se## .u-desktop-visible.u-hidden
+
+! 2016-12-30, 13:24:13 http://www.svd.se/jag-vidhaller-ror-inte-min-kottbit/om/debatt
+!www.svd.se##.ArticleLayout-meta > .Meta--column.Meta > .Meta-part:nth-of-type(5)
+
+! 2016-12-30, 13:32:08 https://www.facebook.com/skogshildas
+www.facebook.com###u_0_4v
+
+! 2016-12-30, 13:32:12 https://www.facebook.com/skogshildas
+www.facebook.com###u_0_4w
+
+! 2016-12-30, 13:34:17 https://duckduckgo.com/
+duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
+
+! 2016-12-30, 13:36:33 http://www.svt.se/nyheter/vetenskap/barkbrod-minskar-fetma-och-diabetes
+www.svt.se###svtCookieInformationContainer
+
+! 2016-12-30, 13:36:44 http://www.svt.se/nyheter/vetenskap/barkbrod-minskar-fetma-och-diabetes
+www.svt.se##.nyh_share--article.nyh_share
+
+! 2016-12-30, 13:58:39 http://www.pnas.org/content/110/15/5802.full
+www.pnas.org###cb-art-soc
+
+! 2016-12-30, 13:59:28 http://www.pnas.org/content/110/15/5802.full
+www.pnas.org###content-block > .social-bookmarking
+
+! 2016-12-30, 14:41:40 https://www.linux.com/learn/beginners-guide-nmap
+www.linux.com###modalBackdrop
+
+! 2016-12-30, 14:41:52 https://www.linux.com/learn/beginners-guide-nmap
+www.linux.com##.popups-container
+
+! 2016-12-30, 14:42:00 https://www.linux.com/learn/beginners-guide-nmap
+www.linux.com##.subscription-modal-content.ctools-modal-content
+
+! 2016-12-30, 14:42:12 https://www.linux.com/learn/beginners-guide-nmap
+www.linux.com###block-menu-menu-join-us > .block__content > .menu
+
+! 2016-12-30, 17:03:13 https://guerrillaskepticismonwikipedia.blogspot.se/
+||www.blogger.com/navbar.g?$subdocument
+
+! 2016-12-30, 17:03:25 https://guerrillaskepticismonwikipedia.blogspot.se/
+guerrillaskepticismonwikipedia.blogspot.se###cookieChoiceInfo
+
+! 2016-12-30, 22:38:41 http://9gag.com/gag/avr4DoZ
+9gag.com###overlay-container
+
+! 2016-12-30, 23:07:25 https://www.ft.com/content/aab0aaba-c6db-11e6-8f29-9445cac8966f
+www.ft.com##.n-util-clearfix.article__share--top.article__share > .o-share > ul > .o-share__action--twitter.o-share__action
+
+! 2016-12-30, 23:07:30 https://www.ft.com/content/aab0aaba-c6db-11e6-8f29-9445cac8966f
+www.ft.com##.n-util-clearfix.article__share--top.article__share > .o-share > ul > .o-share__action--facebook.o-share__action > a[href^="http://www.facebook.com/sharer.php"]
+
+! 2016-12-30, 23:07:35 https://www.ft.com/content/aab0aaba-c6db-11e6-8f29-9445cac8966f
+www.ft.com##.n-util-clearfix.article__share--top.article__share > .o-share > ul > .o-share__action--linkedin.o-share__action > a[href^="http://www.linkedin.com/shareArticle"]
+
+! 2016-12-31, 01:08:37 https://www.google.se/search?q=cocaine+typical+dosage&gws_rd=cr&ei=LfVmWJ_nEMrywAKw95OIDA
+www.google.se###_L8b
+
+! 2016-12-31, 01:09:00 https://www.google.com/search?q=cocaine+typical+dosage&gws_rd=cr&ei=LfVmWJ_nEMrywAKw95OIDA
+www.google.com##.gb_g.gb_Bc.gb_8c
+
+! 2017-01-01, 15:43:44 https://onlinepizza.se/postnummer/41106/
+onlinepizza.se##.restaurant-list--open.restaurant-list:nth-of-type(1)
+
+! 2017-01-01, 16:03:07 https://www.christiancentury.org/blog-post/fascismfactchecking
+www.christiancentury.org##.cc-content-info-social
+
+! 2017-01-02, 10:33:27 https://www.antagning.se/se/start
+www.antagning.se###cookie-law
+
+! 2017-01-02, 12:34:45 http://www.wsj.com/articles/how-well-do-you-know-the-language-of-startups-1479697742
+www.wsj.com##.cookie-notice-container
+
+! 2017-01-02, 12:39:06 http://www.motherjones.com/environment/2016/12/our-new-labor-overlord-thinks-workers-shouldnt-get-breaks
+www.motherjones.com###bottom-donate
+
+! 2017-01-02, 12:39:43 http://www.motherjones.com/environment/2016/12/our-new-labor-overlord-thinks-workers-shouldnt-get-breaks
+||assets.motherjones.com/sitewide/Membership_AD-421.jpg$image
+
+! 2017-01-02, 12:39:49 http://www.motherjones.com/environment/2016/12/our-new-labor-overlord-thinks-workers-shouldnt-get-breaks
+www.motherjones.com###cons_email
+
+! 2017-01-02, 16:23:24 http://www.prisjakt.nu/#rparams=ss=ipad%20dock
+www.prisjakt.nu###confirm_cookie_use
+
+! 2017-01-02, 16:23:29 http://www.prisjakt.nu/#rparams=ss=ipad%20dock
+www.prisjakt.nu###ad_panorama_top
+
+! 2017-01-04, 16:18:31 https://www.facebook.com/pages/Andral%C3%A5ng-Comedy/1484942321751062?sk=timeline
+www.facebook.com###u_0_48
+
+! 2017-01-04, 21:00:25 http://www.svtplay.se/
+www.svtplay.se###svtCookieInformationContainer
+
+! 2017-01-04, 21:02:27 https://www.oppetarkiv.se/
+www.oppetarkiv.se###svtCookieInformationContainer
+
+! 2017-01-04, 22:17:44 http://www.sbu.se/sv/sok/?q=obduktion
+www.sbu.se##.cookie-wrap
+
+! 2017-01-04, 22:29:11 https://www.sahlgrenska.se/w/m/magsar/
+www.sahlgrenska.se###cookie-info
+
+! 2017-01-05, 09:18:21 https://www.ft.com/content/d1fd88a0-d2dd-11e6-9341-7393bb2e1b51
+www.ft.com##.article-classifier
+
+! 2017-01-05, 09:36:12 https://greyhound.com/en
+||greyhound.com/content/images/browsers/screenshot.jpg$image
+
+! 2017-01-05, 09:36:19 https://greyhound.com/en
+greyhound.com##.legacy-browser
+
+! 2017-01-05, 09:36:32 https://greyhound.com/en
+||greyhound.com/content/images/browsers/screenshot.jpg$image
+
+! 2017-01-05, 09:56:56 https://www.facebook.com/
+www.facebook.com###pagelet_megaphone
+
+! 2017-01-05, 17:09:14 https://www.ft.com/
+www.ft.com##.o-labels--premium.o-labels
+
+! 2017-01-13, 00:23:51 https://www.theatlantic.com/please-support-us/?next=https%3A%2F%2Fwww.theatlantic.com%2Finternational%2Farchive%2F2017%2F01%2Ftrump-dossier-intelligence%2F512792%2F#seen
+www.theatlantic.com##.cookie-disclaimer
+
+! 2017-01-14, 17:40:22 https://duckduckgo.com/?q=mikado+gubberogatan&t=hs&ia=places
+duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
+
+! 2017-01-16, 15:18:53 https://e-gotlib.elib.se/My/Login?returnUrl=%2FBooks%2FDetails%2F1020596
+e-gotlib.elib.se###cookie-alert
+
+! 2017-01-18, 13:39:55 https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fmt.sohu.com%2Flearning%2Fd20170115%2F124013149_381027.shtml&edit-text=&act=url
+translate.google.com##.gb_g.gb_Bc.gb_8c
+
+! 2017-01-20, 08:33:01 http://www.hostels.com/
+www.hostels.com##.cookiebar
+
+! 21/01/2017 à 10:53:01 https://www.facebook.com/cfsjoland
+www.facebook.com###u_0_1c
+
+! 21/01/2017 à 15:13:35 http://ombord.sj.se/
+ombord.sj.se##.full-width-message__info.full-width-message--bordered.full-width-message--wrapper.cookie-message-module
+
+! 23/01/2017 à 13:53:11 http://www.realclearpolitics.com/video/2017/01/22/stephanopoulos_vs_conway_it_is_completely_unacceptable_for_media_to_call_trump_press_secretary_a_liar.html
+www.realclearpolitics.com##.popup > table > tbody
+
+! 23/01/2017 à 14:16:46 https://www.quora.com/What-would-the-ideal-university-be-like
+www.quora.com###__w2_giEMFA4_message
+
+! 27/01/2017 à 11:37:59 http://www.bbc.co.uk/radio
+www.bbc.co.uk###bbccookies
+
+! 28/01/2017 à 00:07:13 https://pixabay.com/fr/photos/?q=news&image_type=&cat=&min_width=&min_height=
+pixabay.com##.media_list > div:nth-of-type(2) > div
+
+! 31/01/2017 à 00:06:15 https://pixabay.com/fr/journal-article-tous-les-titres-154444/
+pixabay.com##.sponsored.flex_grid
+
+! 31/01/2017 à 00:06:29 https://pixabay.com/fr/journal-article-tous-les-titres-154444/
+pixabay.com##.right > p
+
+! 31/01/2017 à 00:06:47 https://pixabay.com/fr/journal-article-tous-les-titres-154444/
+pixabay.com##.hide-md.hide-sm.hide-xs.button-md.pure-button
+
+! 31/01/2017 à 01:46:38 https://foreignpolicy.com/2017/01/30/president-stephen-bannons-amazing-first-week-in-office-trump-eo-nsc-immigration/
+foreignpolicy.com###paywall_bg
+
+! 02/02/2017 à 16:14:01 https://www.facebook.com/
+www.facebook.com###u_0_o
+
+! 02/02/2017 à 16:27:37 https://foreignpolicy.com/
+foreignpolicy.com##.default.js-takeover
+
+! 02/02/2017 à 16:29:32 http://www.newstatesman.com/
+www.newstatesman.com###donate-toggle
+
+! 02/02/2017 à 16:29:39 http://www.newstatesman.com/
+www.newstatesman.com###donate
+
+! 02/02/2017 à 16:29:45 http://www.newstatesman.com/
+www.newstatesman.com##a[href="https://subscribe.newstatesman.com"]
+
+! 02/02/2017 à 16:31:23 http://www.newstatesman.com/
+www.newstatesman.com##.offer-text.columns.xsmall-7.small-7.large-7
+
+! 02/02/2017 à 16:34:14 http://www.newstatesman.com/world/2017/01/now-everyone-has-seen-donald-trump-s-true-face-and-fightback-can-start
+www.newstatesman.com##.twitter-follow-promotion
+
+! 2017-02-05, 14:41:44 http://www.atimes.com/article/crazy-president-trump-will-removed-swedens-former-pm-says/
+www.atimes.com##.modal-overlay
+
+! 2017-02-05, 14:41:53 http://www.atimes.com/article/crazy-president-trump-will-removed-swedens-former-pm-says/
+||www.atimes.com/wp-content/themes/rgb/includes/newsletter.html$subdocument
+
+! 2017-02-05, 14:41:58 http://www.atimes.com/article/crazy-president-trump-will-removed-swedens-former-pm-says/
+www.atimes.com##.close-window
+
+! 07/02/2017 à 00:11:26 https://www.svd.se/yrkeskvinnornas-svar-pa-trumps-nya-kladkod#sida-3
+!www.svd.se###sida-3 > .ArticleLayout-image > .ContentLayout--withoutColumnSpace--all.ContentLayout--withoutColumnSpace.ContentLayout--article--main.ContentLayout--article.ContentLayout > .ContentLayout-mainColumn > .Body > .u-noPrint.Body-pull--fullWidth.Body-pull--bordered.Body-pull
+
+! 07/02/2017 à 23:26:04 https://muse.jhu.edu/chapter/1432279
+muse.jhu.edu###sticky_foot
+
+! 08/02/2017 à 11:32:37 https://www.pri.org/
+www.pri.org##.dark.donate.always-under
+
+! 08/02/2017 à 22:41:25 https://www.inverse.com/article/26439-wikipedia-donald-trump-fake-news-post-truth-wikimedia-foundation-bias
+||fsmedia.imgix.net/7e/69/e2/d4/5cce/4a53/af95/459885be192d/starsjpg.jpeg?rect=0,0,2400,1200&dpr=1.5&auto=format,compress&q=75$image
+
+! 08/02/2017 à 22:41:37 https://www.inverse.com/article/26439-wikipedia-donald-trump-fake-news-post-truth-wikimedia-foundation-bias
+www.inverse.com##.flex-centered.flex.app-fullpage.promos-newsletter-slidein.promos-newsletter-page > .promos-newsletter
+
+! 09/02/2017 à 11:23:52 https://mail.google.com/mail/u/0/#inbox/15a1988c1f7b032b
+mail.google.com##.w-MH
+
+! 10/02/2017 à 19:09:53 https://glosor.eu/sida/?r=7x46Jmvg4UV4QWRkV29yZHN8NzA5NDkyOXwwfDA,
+glosor.eu###de-c > .hidden-xs
+
+! 13/02/2017 à 01:18:18 http://www.lesechos.fr/idees-debats/sciences-prospective/0211792289751-recoit-on-lalcoolisme-en-heritage-2064260.php
+www.lesechos.fr##.paywall-fx > .container
+
+! 15/02/2017 à 18:11:29 https://howtospendit.ft.com/food-drink/122471-the-west%E2%80%99s-japanese-food-revolution
+howtospendit.ft.com##.o-cookie-message--active.o-cookie-message
+
+! 16/02/2017 à 19:38:22 http://www.latimes.com/opinion/topoftheticket/la-na-tt-leaks-nonsense-20170215-story.html
+www.latimes.com###reg-overlay
+
+! 17/02/2017 à 00:43:40 https://www.ft.com/
+www.ft.com##.n-sliding-popup--active.subscription-prompt--us.n-sliding-popup
+
+! 20/02/2017 à 18:17:23 https://www.statista.com/chart/5883/trust-in-mass-media/
+||cdn1.statista.com/static/icons/sprite-20161209.png$image
+
+! 21/02/2017 à 12:34:58 https://ftalphaville.ft.com/2017/02/13/2184372/the-tension-at-the-heart-of-fake-news/
+ftalphaville.ft.com##.marketslive-notification
+
+! 22/02/2017 à 11:52:11 https://www.bing.com/translator/?text=J%27esp%C3%A9re%20de%20suspence%2C%20mais%20car%20elle%20est%20vieille%20je%20ne%20le%20croix%20pas.&from=fr&to=en
+www.bing.com##.ltr.promotion-panel-inner
+
+! 22/02/2017 à 11:56:19 https://docs.google.com/spreadsheets/d/16FdqfcbvJ_atz7Kt82vWIWKtt7Qxq29XwXSC4Y8fJt8/edit?ts=58ad6164#gid=0
+docs.google.com##.jfk-butterBar-info.jfk-butterBar-shown.jfk-butterBar
+
+! 22/02/2017 à 16:57:08 http://www.latribune.fr/entreprises-finance/banques-finance/le-risque-le-pen-fait-flamber-le-rendement-de-la-dette-francaise-642716.html
+||www.latribune.fr/acquisition/home/4$subdocument
+
+! 22/02/2017 à 20:31:07 https://globalvoices.org/2014/07/27/doctors-and-translators-are-working-together-to-bridge-wikipedias-medical-language-gap/
+globalvoices.org###cboxLoadedContent
+
+! 22/02/2017 à 20:31:10 https://globalvoices.org/2014/07/27/doctors-and-translators-are-working-together-to-bridge-wikipedias-medical-language-gap/
+globalvoices.org###cboxOverlay
+
+! 22/02/2017 à 20:31:14 https://globalvoices.org/2014/07/27/doctors-and-translators-are-working-together-to-bridge-wikipedias-medical-language-gap/
+||globalvoices.org/wp-content/plugins/m-wp-popup-gv/css/colorbox/images/closeButton.png$image
+
+! 23/02/2017 à 18:52:25 http://www.reuters.com/article/us-pope-atheists-idUSKBN1621I3?il=0
+www.reuters.com###breakingNewsContainer
+
+! 23/02/2017 à 18:52:37 http://www.reuters.com/article/us-pope-atheists-idUSKBN1621I3?il=0
+www.reuters.com###headerNav
+
+! 23/02/2017 à 18:52:44 http://www.reuters.com/article/us-pope-atheists-idUSKBN1621I3?il=0
+www.reuters.com##.fixed.nav-white-space
+
+! 23/02/2017 à 18:54:06 http://www.reuters.com/article/us-pope-atheists-idUSKBN1621I3?il=0
+www.reuters.com###bd_article > .module-header > .module-heading
+
+! 23/02/2017 à 18:54:16 http://www.reuters.com/article/us-pope-atheists-idUSKBN1621I3?il=0
+www.reuters.com##.col-5.col.column2 > .module-header > .module-heading
+
+! 23/02/2017 à 18:54:23 http://www.reuters.com/article/us-pope-atheists-idUSKBN1621I3?il=0
+www.reuters.com###bd_article3
+
+! 23/02/2017 à 18:54:28 http://www.reuters.com/article/us-pope-atheists-idUSKBN1621I3?il=0
+www.reuters.com##.mod-recirc > .module-header > .module-heading
+
+! 24/02/2017 à 12:47:59 https://phabricator.wikimedia.org/
+phabricator.wikimedia.org##.jx-notification-alert.jx-notification
+
+! 2017-03-06, 00:05:06 https://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(4) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(6)
+
+! 2017-03-06, 00:08:34 http://www.ibtimes.sg/googles-deep-learning-ai-project-diagnoses-cancer-faster-pathologists-8092
+||video.ibtimes.co.in/transcoder/288p/117/palmyra-final-1488713446.mp4$media
+
+! 2017-03-06, 00:08:44 http://www.ibtimes.sg/googles-deep-learning-ai-project-diagnoses-cancer-faster-pathologists-8092
+www.ibtimes.sg###tvplayer
+
+! 2017-03-06, 00:08:53 http://www.ibtimes.sg/googles-deep-learning-ai-project-diagnoses-cancer-faster-pathologists-8092
+||d.ibtimes.co.uk/en/full/1571071/vodafone-foundation.jpg?w=480&h=300$image
+
+! 2017-03-06, 00:08:56 http://www.ibtimes.sg/googles-deep-learning-ai-project-diagnoses-cancer-faster-pathologists-8092
+www.ibtimes.sg##.close_tvplayer
+
+! 2017-03-06, 00:09:04 http://www.ibtimes.sg/googles-deep-learning-ai-project-diagnoses-cancer-faster-pathologists-8092
+||graphic1.ibtimes.sg/www/img/icons/bg_orange.png$image
+
+! 2017-03-06, 00:09:11 http://www.ibtimes.sg/googles-deep-learning-ai-project-diagnoses-cancer-faster-pathologists-8092
+www.ibtimes.sg##.big.box-mediatv.box-contents
+
+! 2017-03-06, 00:09:18 http://www.ibtimes.sg/googles-deep-learning-ai-project-diagnoses-cancer-faster-pathologists-8092
+www.ibtimes.sg##a[href="http://ibtimes.sg/"]
+
+! 2017-03-06, 00:33:24 https://www.ft.com/books
+www.ft.com##.weekend-sub-promo
+
+! 2017-03-06, 16:12:56 http://edition.cnn.com/2017/03/06/politics/trump-travel-ban-iraq/index.html
+edition.cnn.com##.media__video--responsive
+
+! 2017-03-06, 16:13:02 http://edition.cnn.com/2017/03/06/politics/trump-travel-ban-iraq/index.html
+||edition.i.cdn.cnn.com/.a/2.7.0/assets/video_pinned_white_bg.jpg$image
+
+! 2017-03-09, 23:00:34 https://hbr.org/2013/08/why-do-so-many-incompetent-men
+hbr.org##.hide-for-print.clearfix.persistent-banner
+
+! 2017-03-11, 02:17:45 https://www.redbubble.com/fr/shop/latin+tote-bags?cat_context=u-bags&page=1&accordion=product
+www.redbubble.com##.app-entries-cookieBanner-components-CookieBanner-CookieBanner_banner_2uPks
+
+! 2017-03-13, 03:12:47 https://psnet.ahrq.gov/resources/resource/28347
+psnet.ahrq.gov##.fsrFloatingMid
+
+! 2017-03-13, 03:12:50 https://psnet.ahrq.gov/resources/resource/28347
+psnet.ahrq.gov###fsrOverlay
+
+! 2017-03-13, 08:40:40 https://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayproduct&productID=2410
+www.effectivehealthcare.ahrq.gov##.fsrscreen
+
+! 2017-03-13, 08:40:56 https://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayproduct&productID=2410
+www.effectivehealthcare.ahrq.gov##.fsrwin
+
+! 14/03/2017 à 17:19:46 https://www.kobo.com/us/fr/ebook/consumers-corporations-and-public-health
+www.kobo.com###modal
+
+! 14/03/2017 à 18:32:45 https://fr.pinterest.com/pin/308848486917386480/
+fr.pinterest.com##.FullPageModal__scroller
+
+! 14/03/2017 à 18:32:48 https://fr.pinterest.com/pin/308848486917386480/
+fr.pinterest.com##.Module.DenzelReactBridge > div > div:nth-of-type(2)
+
+! 15/03/2017 à 18:11:40 https://www.ft.com/
+www.ft.com##.n-welcome-message--fixed.n-welcome-message
+
+! 16/03/2017 à 09:33:40 http://www.internetmedicin.se/
+||www.internetmedicin.se/imgCont/banner/Lixiana_banner_200x300_SE_170203.gif$image
+
+! 16/03/2017 à 09:33:46 http://www.internetmedicin.se/
+||www.internetmedicin.se/imgCont/banner/200x300.Resolor%2020161216.gif$image
+
+! 16/03/2017 à 09:34:07 http://www.internetmedicin.se/
+||www.internetmedicin.se/images/bg.jpg$image
+
+! 16/03/2017 à 09:34:20 http://www.internetmedicin.se/
+||www.internetmedicin.se/imgCont/banner/SommarVik_250x250-2_170222.jpg$image
+
+! 16/03/2017 à 09:34:40 http://www.internetmedicin.se/
+||www.internetmedicin.se/imgCont/banner/meda_tridepos_2262_014_feb_2017_250x250px_internetmedicin.gif$image
+
+! 16/03/2017 à 09:35:27 http://www.internetmedicin.se/searchresult.aspx?search=Bakteriell%20konjunktivit&direct=1
+||www.internetmedicin.se/imgCont/banner/spedra_webbannons_468x120px_01_170116.gif$image
+
+! 16/03/2017 à 09:35:47 http://www.internetmedicin.se/searchresult.aspx?search=Bakteriell%20konjunktivit&direct=1
+||www.internetmedicin.se/banner/html5/15857/Praluent_250x250_ny_clicktag_170301/250x250.html$subdocument
+
+! 18/03/2017 à 10:54:20 http://www.huffingtonpost.com/entry/trump-merkel_us_58cbc18ce4b00705db4e4e60?section=politics&section=us_politics
+||daks2k3a4ib2z.cloudfront.net/57d30b6aa1924bb30d7ae290/58cc40cdbf7c04924929acc6_Huffpost-crowd-shot.jpg$image
+
+! 18/03/2017 à 10:54:35 http://www.huffingtonpost.com/entry/trump-merkel_us_58cbc18ce4b00705db4e4e60?section=politics&section=us_politics
+www.huffingtonpost.com###zfpqksd
+
+! 19/03/2017 à 16:55:33 http://www.dictionary.com/slideshows/12-insults-we-should-bring-back?param=TcomSERP#Gobermouch
+www.dictionary.com###email-signup
+
+! 26/03/2017 à 11:17:13 https://www.ft.com/
+www.ft.com##.section-meta__sponsorship
+
+! 31/03/2017 à 10:43:12 https://www.svd.se/
+!www.svd.se###user-panel
+
+! 31/03/2017 à 10:43:28 https://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(4) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(3)
+
+! 31/03/2017 à 10:43:52 https://www.svd.se/
+!www.svd.se##.Grid-border--top.Grid-item:nth-of-type(7) > .js-nativeAdTeasers--primary > .theme-Native.Teaser--fullAdLabel.Teaser--kilo.Teaser > .Teaser-link
+
+! 31/03/2017 à 10:44:01 https://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(9) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(7)
+
+! 03/04/2017 à 09:19:54 https://www.bukowskis.com/sv
+www.bukowskis.com##.current-terms-not-accepted-banner.alert.alert-box
+
+! 22/04/2017 à 12:26:00 https://www.youtube.com/watch?v=MdRcaZtXRDk
+www.youtube.com###ticker > .ytd-masthead.style-scope
+
+! 08/05/2017 à 01:19:40 https://courses.edx.org/dashboard
+courses.edx.org##.dashboard-banner
+
+! 08/05/2017 à 09:25:30 http://www.interrail.eu/fr/
+www.interrail.eu##.is-active.eurail-overlay-processed.overlay
+
+! 16/05/2017 à 11:41:44 http://lithub.com/are-we-different-people-in-different-languages/
+lithub.com###om-ct2uns2q1z-lightbox
+
+! 23/05/2017 à 14:02:59 https://www.google.fr/search?q=the+ancient+greeks+had+a+different+notion+of+rhetoric&ie=utf-8&oe=utf-8&gws_rd=cr&ei=RCQkWYG3GcSHaPyViYgI
+www.google.fr##.vk_c._Udi
+
+! 23/05/2017 à 14:03:38 https://www.google.fr/search?q=the+ancient+greeks+had+a+different+notion+of+rhetoric&ie=utf-8&oe=utf-8&gws_rd=cr&ei=RCQkWYG3GcSHaPyViYgI#q=yanis+varoufakis+%22freedom+of+speech%22+%22ancient+greeks%22
+www.google.fr###taw
+
+! 23/05/2017 à 22:26:27 http://beta.speedtest.net/fr
+beta.speedtest.net##.notification-container > div > .notification
+
+! 25/05/2017 à 08:21:18 https://www.google.fr/maps/place/Marseille/@43.280555,5.2650549,11z/data=!4m5!3m4!1s0x12c9bf4344da5333:0x40819a5fd970220!8m2!3d43.296482!4d5.36978
+www.google.fr##.widget-consent-dialog
+
+! 27/05/2017 à 14:40:53 https://lapl.overdrive.com/search?subject=111&subject=53&sortBy=newlyadded
+lapl.overdrive.com##.fadeIn.animated.is-system.js-toast.Toaster-toast
+
+! 31/05/2017 à 18:15:44 https://www.svd.se/
+!www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section--noMargin.StartLayout-section > .ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(2)
+
+! 01/06/2017 à 17:30:20 https://www.google.se/maps/place/Backv%C3%A4gen+7,+169+55+Solna/@59.368745,17.9991519,3a,75y,295.49h,71.99t/data=!3m7!1e1!3m5!1stlml7rX7PwRBTLASs8W3Fw!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3Dtlml7rX7PwRBTLASs8W3Fw%26output%3Dthumbnail%26cb_client%3Dsearch.TACTILE.gps%26thumb%3D2%26w%3D86%26h%3D86%26yaw%3D337.82538%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656!4m5!3m4!1s0x465f9dc6f7a0c95d:0xea4c042b8bb4bd4e!8m2!3d59.3689107!4d17.998974!6m1!1e1?hl=en
+www.google.se##.widget-consent-dialog
+
+! 05/06/2017 à 00:08:28 https://www.foreignaffairs.com/
+www.foreignaffairs.com##.survey-intercept.kicker
+
+! 05/06/2017 à 23:09:44 https://www.google.se/search?q=sierra+leone&ie=utf-8&oe=utf-8&gws_rd=cr&ei=usc1We2uF8GLsAH67aKIBw
+www.google.se###cnsm
+
+! 05/06/2017 à 23:09:56 https://www.google.se/search?q=sierra+leone&ie=utf-8&oe=utf-8&gws_rd=cr&ei=usc1We2uF8GLsAH67aKIBw
+www.google.se##._FDh.fAwjXaCTMo5__visible.fAwjXaCTMo5__container
+
+! 05/06/2017 à 23:10:01 https://www.google.se/search?q=sierra+leone&ie=utf-8&oe=utf-8&gws_rd=cr&ei=usc1We2uF8GLsAH67aKIBw
+www.google.se##.i79XW2kHfxxs-NEtT1Mcs_w8.fAwjXaCTMo5__visible._SRg.fAwjXaCTMo5__overlay
+
+! 05/06/2017 à 23:10:53 https://www.google.se/search?q=sierra+leone&ie=utf-8&oe=utf-8&gws_rd=cr&ei=usc1We2uF8GLsAH67aKIBw
+www.google.se###uid_WTXIMgAIS_QKLBGF2QrLJg_0
+
+! 05/06/2017 à 23:11:03 https://www.google.se/search?q=sierra+leone&ie=utf-8&oe=utf-8&gws_rd=cr&ei=usc1We2uF8GLsAH67aKIBw
+www.google.se###uid_WTXIQQACsgYKLFvBAQKajg_0
+
+! 05/06/2017 à 23:11:58 https://www.google.se/search?q=free+ublock+origin&ie=utf-8&oe=utf-8&gws_rd=cr&ei=dMg1WYmROsmqswG5gY_oBA
+www.google.se##.iQvS54TafyZs-NEtT1Mcs_w8.fAwjXaCTMo5__visible._SRg.fAwjXaCTMo5__overlay
+
+! 05/06/2017 à 23:12:39 https://www.google.se/search?sclient=psy-ab&q=consent.google.com&oq=consent.google.com&gs_l=serp.3..0j0i8i30k1l3.37300.40089.0.40235.22.18.2.0.0.0.160.1612.13j4.17.0....0...1.1.64.psy-ab..3.19.1575...0i67k1j0i30k1.HqDRxt33TWk&pbx=1&bav=on.2,or.&biw=1411&bih=779&ech=1&psi=dcg1WcnIAYSKsgGF14II.1496697109715.3&ei=dcg1WcnIAYSKsgGF14II&emsg=NCSR&noj=1
+www.google.se##.ianBdgiotCA4-NEtT1Mcs_w8.fAwjXaCTMo5__visible._SRg.fAwjXaCTMo5__overlay
+
+! 05/06/2017 à 23:54:16 https://www.google.se/maps/@59.3458484,18.1095864,13z?hl=en
+www.google.se##.widget-consent-fullscreen.widget-consent
+
+! 06/06/2017 à 14:43:11 https://www.fortnumandmason.com/t/categories/tea
+www.fortnumandmason.com##.beta-banner
+
+! 06/06/2017 à 23:50:44 http://sv.opera.se/forestallningar/
+sv.opera.se##.cookielaw
+
+! 07/06/2017 à 00:41:18 https://www.foreignaffairs.com/reviews/capsule-review/2016-12-08/shadow-courts-tribunals-rule-global-trade
+www.foreignaffairs.com##.survey-intercept.kicker
+
+! 12/06/2017 à 13:01:07 http://lakartidningen.se/Sok-arkiv/?f=q:e-h%C3%A4lsa
+lakartidningen.se##.row.addstop
+
+! 13/06/2017 à 19:44:46 http://pixdaus.com/prisoners-at-the-angola-state-prison-in-louisiana-picking-co/items/view/623305/
+pixdaus.com###topNag
+
+! 18/06/2017 à 14:04:56 https://www.prisjakt.nu/
+www.prisjakt.nu###ad_panorama_top
+
+! 18/06/2017 à 14:05:01 https://www.prisjakt.nu/
+www.prisjakt.nu##.inner
+
+! 18/06/2017 à 14:05:15 https://www.prisjakt.nu/kategori.php?k=382
+www.prisjakt.nu###ad_panorama_top
+
+! 18/06/2017 à 14:05:22 https://www.prisjakt.nu/kategori.php?k=382
+www.prisjakt.nu##.inner
+
+! 18/06/2017 à 14:05:42 https://www.prisjakt.nu/kategori.php?k=380
+www.prisjakt.nu###ad_panorama_top
+
+! 18/06/2017 à 14:05:47 https://www.prisjakt.nu/kategori.php?k=380
+www.prisjakt.nu##.inner
+
+! 18/06/2017 à 14:06:45 https://www.prisjakt.nu/kategori.php?m=s322307438&o=produkt_pris_inkmoms
+www.prisjakt.nu###ad_panorama_top
+
+! 18/06/2017 à 14:06:50 https://www.prisjakt.nu/kategori.php?m=s322307438&o=produkt_pris_inkmoms
+www.prisjakt.nu##.inner
+
+! 2017-06-26 05:17:12 http://www.techtimes.com/articles/210644/20170624/heres-how-to-remove-your-private-medical-records-from-google-search-results-and-why-you-should.htm
+www.techtimes.com###player-wrap
+
+! 2017-06-26 08:05:18 https://itsfoss.com/calibre-3-released/
+itsfoss.com###om-dedealwmjro3tx5v
+
+! 6/27/2017, 2:57:57 PM https://www.theinformation.com/uber-left-china-but-its-influence-lingers?shared=ceeede
+www.theinformation.com##.marketing-module.container > .row:nth-of-type(1)
+
+! 6/29/2017, 10:20:55 AM https://www.reddit.com/r/pihole/comments/6k2nhc/average_blocked/
+www.reddit.com##blockquote
+
+! 6/29/2017, 7:38:17 PM https://www.vox.com/policy-and-politics/2017/6/29/15892504/liberal-caricature-conservatism-correct
+www.vox.com###notice
+
+! 6/30/2017, 11:43:41 PM https://kotaku.com/
+kotaku.com###chkjafkiuwpjlkzrwf
+
+! 6/30/2017, 11:43:45 PM https://kotaku.com/
+kotaku.com##.yzrla
+
+! 7/4/2017, 1:12:51 AM https://www.torrentleech.org/
+||www.torrentleech.org/images/DisableAdblock.png$image
+
+! 7/5/2017, 2:13:56 PM https://sci-hub.ac/http://www.nber.org/papers/w23552.pdf
+sci-hub.ac###dialog-form
+
+! 7/5/2017, 2:14:01 PM https://sci-hub.ac/http://www.nber.org/papers/w23552.pdf
+sci-hub.ac##.ui-draggable-handle.ui-helper-clearfix.ui-corner-all.ui-widget-header.ui-dialog-titlebar
+
+! 7/5/2017, 2:14:04 PM https://sci-hub.ac/http://www.nber.org/papers/w23552.pdf
+||code.jquery.com/ui/1.11.4/themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png$image
+
+! 7/5/2017, 2:14:09 PM https://sci-hub.ac/http://www.nber.org/papers/w23552.pdf
+sci-hub.ac##.ui-resizable.ui-draggable.donate.ui-front.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+
+! 7/5/2017, 2:14:16 PM https://sci-hub.ac/http://www.nber.org/papers/w23552.pdf
+||code.jquery.com/ui/1.11.4/themes/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png$image
+
+! 7/5/2017, 2:14:24 PM https://sci-hub.ac/http://www.nber.org/papers/w23552.pdf
+sci-hub.ac##.ui-front.ui-widget-overlay
+
+! 7/5/2017, 8:47:38 PM https://www.svd.se/sex-experten-sa-har-tinder-forandrat-var-syn-pa-karlek
+!www.svd.se##.Signup--overlay.Signup
+
+! 7/5/2017, 8:47:42 PM https://www.svd.se/sex-experten-sa-har-tinder-forandrat-var-syn-pa-karlek
+!www.svd.se##.is-open.js-overlay.OverlayWindow
+
+! 7/5/2017, 9:46:33 PM https://www.theguardian.com/science/2017/jul/04/why-roman-concrete-still-stands-strong-while-modern-version-decays?CMP=Share_AndroidApp_reddit_is_fun
+www.theguardian.com##.contributions__epic
+
+! 7/5/2017, 9:47:05 PM https://nakedsecurity.sophos.com/2017/07/05/illinois-poised-to-ban-geolocation-tracking-without-consent/
+nakedsecurity.sophos.com###sophos_ad-2 > .sophos_widget_ad
+
+! 7/5/2017, 9:47:11 PM https://nakedsecurity.sophos.com/2017/07/05/illinois-poised-to-ban-geolocation-tracking-without-consent/
+nakedsecurity.sophos.com###sophos_ad-2
+
+! 7/14/2017, 1:37:29 PM https://gu-se-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,johan%20cullberg&tab=default_tab&search_scope=default_scope&vid=46GUB_VU1&lang=sv_SE&offset=0
+gu-se-primo.hosted.exlibrisgroup.com##.layout-row.layout-align-center-center.alert-bar.bar
+
+! 7/14/2017, 1:39:45 PM https://gu-se-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,%22filosofi%20p%C3%A5%20liv%20och%20d%C3%B6d%22&tab=default_tab&search_scope=default_scope&vid=46GUB_VU1&lang=sv_SE&offset=0
+gu-se-primo.hosted.exlibrisgroup.com##.layout-row.layout-align-center-center.alert-bar.bar
+
+! 7/14/2017, 4:43:21 PM https://www.svd.se/
+www.svd.se##.Grid--tinyVerticalGutter.Grid-space--smallNegativeBottom.Grid-space--smallNegativeTop.Grid > .Grid-item:nth-of-type(2)
+
+! 7/14/2017, 4:43:56 PM https://www.svd.se/
+www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(9) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(3)
+
+! 7/14/2017, 4:44:23 PM https://www.svd.se/
+www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section--noMargin.StartLayout-section > .ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(3)
+
+! 7/14/2017, 4:44:31 PM https://www.svd.se/
+www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(3) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(2)
+
+! 7/14/2017, 4:44:48 PM https://www.svd.se/
+www.svd.se##.Grid-border--top.Grid-item:nth-of-type(5) > .Grid-m-break.Grid-break--vertical.Grid-break > .FlexEmbed
+
+! 7/14/2017, 4:44:52 PM https://www.svd.se/
+www.svd.se##.Grid-border--top.Grid-item:nth-of-type(5) > .Grid-m-break.Grid-break--vertical.Grid-break
+
+! 7/14/2017, 4:44:56 PM https://www.svd.se/
+www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(5) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(5)
+
+! 7/14/2017, 4:45:02 PM https://www.svd.se/
+www.svd.se##.Grid-item:nth-of-type(1) > .Grid-m-break.Grid-break--vertical.Grid-break > .FlexEmbed
+
+! 7/14/2017, 4:45:09 PM https://www.svd.se/
+www.svd.se##.Grid-item:nth-of-type(1) > .Grid-m-break.Grid-break--vertical.Grid-break
+
+! 7/14/2017, 4:45:15 PM https://www.svd.se/
+www.svd.se##.Grid--tinyVerticalGutter.Grid-space--smallNegativeBottom.Grid-space--smallNegativeTop.Grid > .Grid-item:nth-of-type(1)
+
+! 7/14/2017, 4:45:18 PM https://www.svd.se/
+www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(7) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(4)
+
+! 7/21/2017, 11:19:48 PM http://www.aljazeera.com/indepth/opinion/2014/08/exposing-great-poverty-reductio-201481211590729809.html#
+www.aljazeera.com###header_container
+
+! 7/21/2017, 11:20:05 PM http://www.aljazeera.com/indepth/opinion/2014/08/exposing-great-poverty-reductio-201481211590729809.html#
+www.aljazeera.com###header_container
+
+! 7/23/2017, 12:36:17 PM https://mobile.twitter.com/jaybeware/status/887372542142500868
+mobile.twitter.com##._3f2NsD-H._2Ad_SH-7
+
+! 7/26/2017, 1:49:51 AM http://money.cnn.com/2017/07/25/media/pro-trump-media-trump-sessions/index.html
+money.cnn.com##social
+
+! 7/26/2017, 1:49:56 AM http://money.cnn.com/2017/07/25/media/pro-trump-media-trump-sessions/index.html
+money.cnn.com##followus > p
+
+! 7/27/2017, 1:41:36 PM https://www.svd.se/
+www.svd.se##.theme-Native.Teaser
+
+! 7/27/2017, 1:41:47 PM https://www.svd.se/
+www.svd.se##.Grid-border--top.Grid-item:nth-of-type(2) > .Grid-m-break.Grid-break--vertical.Grid-break > .FlexEmbed
+
+! 7/27/2017, 1:42:01 PM https://www.svd.se/
+www.svd.se##.Container--withColumn.Container.AdOuterMostContainer
+
+! 7/27/2017, 1:42:16 PM https://www.svd.se/
+www.svd.se##.Container--withColumn.Container.ContentLayout--extraColumnBorder.ContentLayout--withoutColumnSpace.ContentLayout--start.ContentLayout.StartLayout-section:nth-of-type(4) > .ContentLayout-mainColumn--bordered--top.ContentLayout-mainColumn--bordered.ContentLayout-mainColumn > .Grid-m-space--negativeBottom.Grid--verticalGutter.Grid > .Grid-border--top.Grid-item:nth-of-type(2)
+
+! 7/27/2017, 2:41:32 PM https://en.wikipedia.org/wiki/Special:Watchlist
+en.wikipedia.org###wikEdLogoList
+
+! 8/13/2017, 11:07:32 AM https://www.entrepreneur.com/article/295827
+www.entrepreneur.com###flyout-promo-open-drawer-next
+
+! 8/23/2017, 7:03:15 AM https://yggtorrent.com/
+yggtorrent.com##cloudflare-app
+
+! 8/24/2017, 9:27:00 AM https://www.eater.com/2014/7/11/6196141/meat-fruit-at-dinner-by-heston-blumenthal-in-london
+www.eater.com###notice
+
+! 8/24/2017, 5:31:48 PM http://library.artstor.org.ezproxy.ub.gu.se/#/
+library.artstor.org.ezproxy.ub.gu.se##.vertical-center.banner-sky.banner
+
+! 8/24/2017, 7:46:12 PM http://www.greenpeace.org/sweden/se/
+||www.pages04.net/greenpeaceinternational/se_signup_form_p3/se_signup_form$subdocument
+
+! 8/24/2017, 7:46:28 PM http://www.greenpeace.org/sweden/se/
+www.greenpeace.org##.frame
+
+! 8/29/2017, 8:54:24 PM http://www.eutopiamagazinearchive.eu/en/tim-b-m%C3%BCller/issue/europe%E2%80%99s-democracy-began-after-world-war-i.html
+www.eutopiamagazinearchive.eu##.eutopia__cookies
+
+! 8/30/2017, 11:53:57 AM https://www.amazon.com/Games-Gaming-Medieval-Literature-Middle/dp/1137311037/ref=sr_1_61?s=books&ie=UTF8&qid=1498861743&sr=1-61&keywords=game
+www.amazon.com###hero-quick-promo
+
+! 8/30/2017, 11:54:14 AM https://www.amazon.com/Games-Gaming-Medieval-Literature-Middle/dp/1137311037/ref=sr_1_61?s=books&ie=UTF8&qid=1498861743&sr=1-61&keywords=game
+www.amazon.com###quickPromoBucketContent
+
+! 8/30/2017, 11:54:31 AM https://www.amazon.com/Games-Gaming-Medieval-Literature-Middle/dp/1137311037/ref=sr_1_61?s=books&ie=UTF8&qid=1498861743&sr=1-61&keywords=game
+www.amazon.com###giveaway
+
+! 8/30/2017, 11:54:58 AM https://www.amazon.com/Games-Gaming-Medieval-Literature-Middle/dp/1137311037/ref=sr_1_61?s=books&ie=UTF8&qid=1498861743&sr=1-61&keywords=game
+www.amazon.com##.swf-social-site.a-link-normal:nth-of-type(3)
+
+! 8/30/2017, 11:56:07 AM https://www.amazon.com/Games-Gaming-Medieval-Literature-Middle/dp/1137311037/ref=sr_1_61?s=books&ie=UTF8&qid=1498861743&sr=1-61&keywords=game
+www.amazon.com##.mediaTab_logo
+
+! 8/30/2017, 11:56:22 AM https://www.amazon.com/Games-Gaming-Medieval-Literature-Middle/dp/1137311037/ref=sr_1_61?s=books&ie=UTF8&qid=1498861743&sr=1-61&keywords=game
+www.amazon.com###oneClickSignIn
+
+! 8/30/2017, 11:56:45 AM https://www.amazon.com/Games-Gaming-Medieval-Literature-Middle/dp/1137311037/ref=sr_1_61?s=books&ie=UTF8&qid=1498861743&sr=1-61&keywords=game
+||images-na.ssl-images-amazon.com/images/G/01/gno/sprites/nav-sprite-global_bluebeacon-V3-1x_optimized._CB508625733_.png$image
+
+! 8/30/2017, 11:56:54 AM https://www.amazon.com/Games-Gaming-Medieval-Literature-Middle/dp/1137311037/ref=sr_1_61?s=books&ie=UTF8&qid=1498861743&sr=1-61&keywords=game
+www.amazon.com##.nav-prime-try.nav-sprite.nav-logo-tagline
+
+! 8/30/2017, 11:57:07 AM https://www.amazon.com/Games-Gaming-Medieval-Literature-Middle/dp/1137311037/ref=sr_1_61?s=books&ie=UTF8&qid=1498861743&sr=1-61&keywords=game
+www.amazon.com###nav-link-prime > .nav-line-2
+
+! 8/30/2017, 12:03:36 PM https://www.theverge.com/2017/8/24/16197694/cia-fake-software-update-hacking-wikileaks-vault-7
+www.theverge.com###notice
+
+! 8/30/2017, 3:20:45 PM https://www.amazon.fr/symphonie-pastorale-Gide-Andr%C3%A9/dp/2070360180/ref=sr_1_7?ie=UTF8&qid=1504099175&sr=8-7&keywords=andr%C3%A9+gide
+||images-eu.ssl-images-amazon.com/images/G/08/digital/fiona/general/green-fade-background._CB179022975_.gif$image
+
+! 8/30/2017, 3:20:58 PM https://www.amazon.fr/symphonie-pastorale-Gide-Andr%C3%A9/dp/2070360180/ref=sr_1_7?ie=UTF8&qid=1504099175&sr=8-7&keywords=andr%C3%A9+gide
+www.amazon.fr###dp > div:nth-of-type(3)
+
+! 8/30/2017, 3:21:05 PM https://www.amazon.fr/symphonie-pastorale-Gide-Andr%C3%A9/dp/2070360180/ref=sr_1_7?ie=UTF8&qid=1504099175&sr=8-7&keywords=andr%C3%A9+gide
+||images-eu.ssl-images-amazon.com/images/G/08/x-locale/common/transparent-pixel._CB314499273_.gif$image
+
+! 8/30/2017, 3:21:20 PM https://www.amazon.fr/symphonie-pastorale-Gide-Andr%C3%A9/dp/2070360180/ref=sr_1_7?ie=UTF8&qid=1504099175&sr=8-7&keywords=andr%C3%A9+gide
+www.amazon.fr###nav-belt > .nav-right
+
+! 8/30/2017, 3:21:35 PM https://www.amazon.fr/symphonie-pastorale-Gide-Andr%C3%A9/dp/2070360180/ref=sr_1_7?ie=UTF8&qid=1504099175&sr=8-7&keywords=andr%C3%A9+gide
+www.amazon.fr##.nav-prime-try.nav-sprite.nav-logo-tagline
+
+! 8/31/2017, 5:22:24 PM https://www.amazon.fr/symphonie-pastorale-Gide-Andr%C3%A9/dp/2070360180/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=1504180212&sr=8-1
+www.amazon.fr###oneClickSignIn > .a-spacing-micro.a-divider-break.a-divider > h5
+
+! 9/4/2017, 11:31:51 AM https://www.nytimes.com/2017/09/03/upshot/to-understand-rising-inequality-consider-the-janitors-at-two-top-companies-then-and-now.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news&_r=0
+www.nytimes.com###welcome-back-modal
+
+! 9/4/2017, 11:52:40 AM http://www.seattletimes.com/seattle-news/politics/uw-professor-the-information-war-is-real-and-were-losing-it/
+www.seattletimes.com##.is-active.overlay.global-overlay.NewsletterSignupModal
+
+! 9/4/2017, 12:10:49 PM https://www.ft.com/content/f35c9d8e-8cfe-11e7-a352-e46f43c5825d
+www.ft.com##.n-newsletter-signup
+
+! 9/4/2017, 12:11:24 PM https://www.ft.com/content/f35c9d8e-8cfe-11e7-a352-e46f43c5825d
+www.ft.com##.o-grid-container:nth-of-type(3) > .o-grid-row:nth-of-type(1) > div:nth-of-type(2) > .o-teaser-collection
+
+! 9/4/2017, 12:11:44 PM https://www.ft.com/content/f35c9d8e-8cfe-11e7-a352-e46f43c5825d
+www.ft.com##.n-myft-ui__button
+
+! 9/4/2017, 4:38:26 PM https://www.svd.se/de-flesta-aldersbedomda-ar-over-18-ar
+www.svd.se##.u-noPrint.Body-well.ArticlePaywall.has-bigBlueBottom.Well--noVerticalpadding.Well--outlined.Well--light.Well
+
+! 9/4/2017, 4:38:47 PM https://www.svd.se/de-flesta-aldersbedomda-ar-over-18-ar
+www.svd.se##.is-sticky.js-sticky > .ArticleLayout-meta > .Meta--column.Meta > .Meta-part:nth-of-type(5)
+
+! 9/4/2017, 4:39:15 PM https://www.svd.se/de-flesta-aldersbedomda-ar-over-18-ar
+www.svd.se##.Teaser-adLabel--native.Teaser-adLabel
+
+! 9/4/2017, 4:40:44 PM https://www.svd.se/unga-afghaner-vill-flytta-demonstrationen/om/svenskt-flyktingmottagande
+www.svd.se##.paywall-loader
+
+! 9/7/2017, 4:43:32 PM https://gizmodo.com/yes-google-uses-its-power-to-quash-ideas-it-doesn-t-li-1798646437
+gizmodo.com###azoiapkzedlxiu
+
+! 9/7/2017, 4:43:43 PM https://gizmodo.com/yes-google-uses-its-power-to-quash-ideas-it-doesn-t-li-1798646437
+gizmodo.com##.vkzadoovdfodevc
+
+! 9/8/2017, 12:25:59 AM https://www.dailydot.com/layer8/what-is-alt-left/
+www.dailydot.com##.dd-link-internal
+
+! 9/8/2017, 12:28:44 AM https://www.dailydot.com/layer8/what-is-alt-left/
+www.dailydot.com##ul
+
+! 9/8/2017, 7:42:25 PM https://www.svd.se/nedrustningsambassador-varnar-sverige-for-karnvapenkonvention
+www.svd.se##.u-noPrint
+
+! 9/8/2017, 10:07:04 PM http://www.orlandosentinel.com/opinion/os-ed-hurricane-irma-price-gougers-heroes-jack-chambless-20170906-story,amp.html
+www.orlandosentinel.com##.trb_ar_page > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.trb_ar_main_ad.trb_amp_ad
+
+! 9/8/2017, 10:07:37 PM http://www.orlandosentinel.com/opinion/os-ed-hurricane-irma-price-gougers-heroes-jack-chambless-20170906-story,amp.html
+www.orlandosentinel.com##.trb_ar_ym.trb_ar_sponsoredmod
+
+! 9/8/2017, 10:56:09 PM http://www.atlasobscura.com/articles/the-rise-of-illegal-pirate-libraries
+www.atlasobscura.com###email-roadblock-topographic-modal
+
+! 9/8/2017, 10:56:14 PM http://www.atlasobscura.com/articles/the-rise-of-illegal-pirate-libraries
+www.atlasobscura.com##.in.modal-backdrop
+
+! 9/8/2017, 10:56:24 PM http://www.atlasobscura.com/articles/the-rise-of-illegal-pirate-libraries
+www.atlasobscura.com##.container-fluid.site-top-notification-container
+
+! 9/15/2017, 10:06:39 PM https://harpers.org/archive/2017/09/all-the-last-wars/
+harpers.org###issuem-leaky-paywall-articles-remaining-nag
+
+! 9/15/2017, 10:40:30 PM https://www.youtube.com/watch?v=kuPqvPnFvcg
+www.youtube.com##.opened
+
+! 9/15/2017, 10:40:40 PM https://www.youtube.com/watch?v=kuPqvPnFvcg
+||consent.google.com/$subdocument
+
+! 9/15/2017, 10:40:50 PM https://www.youtube.com/watch?v=kuPqvPnFvcg
+www.youtube.com###consent-bump
+
+! 9/15/2017, 10:54:24 PM https://encrypted.google.com/search?hl=fr&q=google%20cant%20sign%20in
+encrypted.google.com##.gb_g.gb_fa
+
+! 9/15/2017, 11:40:22 PM https://www.google.se/search?q=llbean&ie=utf-8&oe=utf-8&client=firefox-b-ab&
+www.google.se###epbar
+
+! 9/15/2017, 11:40:37 PM https://www.google.se/search?q=llbean&ie=utf-8&oe=utf-8&client=firefox-b-ab&
+www.google.se##.gb_g.gb_Nc.gb_nd
+
+! 9/15/2017, 11:41:08 PM https://global.llbean.com/
+global.llbean.com##.cookies-popup
+
+! 9/19/2017, 12:03:01 AM https://www.dn.se/
+www.dn.se###pwOverlay
+
+! 9/19/2017, 2:41:29 PM https://medium.com/@michaeljwest/the-kerbal-factorio-business-school-how-sim-games-teach-mental-models-9f14dc622036
+medium.com##.js-stickyFooter
+
+! 9/20/2017, 2:21:49 AM http://www.pewsocialtrends.org/2012/08/01/the-rise-of-residential-segregation-by-income/
+www.pewsocialtrends.org###js-user-survey-popup
+
+! 9/20/2017, 2:21:57 AM http://www.pewsocialtrends.org/2012/08/01/the-rise-of-residential-segregation-by-income/
+www.pewsocialtrends.org##a[href="https://pewresearch.networkforgood.com/"]
+
+! 9/20/2017, 2:24:43 AM https://www.gp.se/
+www.gp.se##.ml-adon-hide-box.package-label.package-plate.container.news-package
+
+! 9/20/2017, 2:25:32 AM https://www.gp.se/
+www.gp.se###LokusJobb
+
+! 9/20/2017, 2:33:19 AM http://www.aktavara.org/News.aspx?r_id=176653
+www.aktavara.org##.clearfix.ad
+
+! 9/20/2017, 2:33:54 AM http://www.aktavara.org/News.aspx?r_id=176653
+www.aktavara.org###ctl00_ContentPlaceHolder1_newsAddSpaceC > h3
+
+! 9/20/2017, 2:34:05 AM http://www.aktavara.org/News.aspx?r_id=176653
+www.aktavara.org##h3
+
+! 9/20/2017, 2:34:23 AM http://www.aktavara.org/News.aspx?r_id=176653
+www.aktavara.org###sponsorer
+
+! 9/21/2017, 2:00:17 PM http://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau/
+www.thecanadianencyclopedia.ca##.mfp-inline-holder.mfp-s-ready.mfp-container
+
+! 9/21/2017, 2:00:23 PM http://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau/
+www.thecanadianencyclopedia.ca##.mfp-ready.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+
+! 9/21/2017, 2:00:28 PM http://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau/
+www.thecanadianencyclopedia.ca##.mfp-ready.mfp-bg
+
+! 9/22/2017, 9:04:17 PM https://www.amazon.com/
+www.amazon.com###nav-upnav
+
+! 9/22/2017, 9:05:10 PM https://www.amazon.com/
+www.amazon.com##.nav-flyout.nav-signin-tt
+
+! 9/22/2017, 10:29:52 PM http://www.foxnews.com/travel/2017/09/08/u-s-tourism-declining-as-new-report-confirms-predicted-trump-slump.html
+www.foxnews.com##.alert-container
+
+! 9/22/2017, 11:52:07 PM https://www.google.se/search?tbm=isch&q=nestorius&tbs=imgo:1&#imgrc=hp2ZsWgqRDAyNM:
+www.google.se##.gb_g
+
+! 9/22/2017, 11:55:33 PM https://books.google.se/books/about/The_Kregel_Pictorial_Guide_To_Church_His.html?hl=sv&id=cdUY_P1n1MYC&redir_esc=y
+books.google.se##.gb_g
+
+! 9/23/2017, 2:29:59 AM https://www.bokborsen.se/
+www.bokborsen.se##.fixedtop
+
+! 9/23/2017, 1:36:05 PM https://www.reddit.com/r/technology/comments/71tks2/nbd_adobe_just_dumped_its_private_pgp_key_on_the/
+www.reddit.com##.cookie-infobar.with-btn.with-icon.md-container-small.reddit-infobar
+
+! 9/23/2017, 2:30:47 PM https://www.ft.com/content/902581a0-99ff-11e7-b83c-9588e51488a0
+www.ft.com##.o-cookie-message--active
+
+! 9/23/2017, 2:57:55 PM https://www.washingtonpost.com/lifestyle/style/the-mysterious-group-thats-picking-breitbart-apart-one-tweet-at-a-time/2017/09/22/df1ee0c0-9d5c-11e7-9083-fbfddf6804c2_story.html?tid=pm_pop
+www.washingtonpost.com##.social-tools-wrapper
+
+! 9/23/2017, 2:58:38 PM https://www.washingtonpost.com/lifestyle/style/the-mysterious-group-thats-picking-breitbart-apart-one-tweet-at-a-time/2017/09/22/df1ee0c0-9d5c-11e7-9083-fbfddf6804c2_story.html?tid=pm_pop
+www.washingtonpost.com##.nl-top-hairline.border-bottom-
+
+! 9/23/2017, 3:10:12 PM https://www.svd.se/kd-nmr-ar-en-terroristorganisation/om/nazistdemonstrationen-i-goteborg
+www.svd.se##.u-noPrint
+
+! 9/23/2017, 3:13:40 PM https://www.svd.se/sta-upp-for-bibliotekarierna-i-stoket/om/nazistdemonstrationen-i-goteborg
+www.svd.se##.paywall-loader
+
+! 9/23/2017, 3:14:11 PM https://www.svd.se/manga-klagomal-om-nmr-demo-provas-ej/om/nazistdemonstrationen-i-goteborg
+www.svd.se##.u-noPrint
+
+! 9/23/2017, 3:15:26 PM https://www.svd.se/
+www.svd.se##.theme-Native
+
+! 9/23/2017, 3:21:07 PM https://www.svd.se/
+www.svd.se##.theme-Native
+
+! 9/23/2017, 3:50:36 PM https://www.blogger.com/blogger.g?blogID=5904913428203958442#allposts
+www.blogger.com###blogger_cookie_notice
+
+! 9/23/2017, 4:19:08 PM https://www.youtube.com/watch?v=g1ThqDahd7M
+www.youtube.com###ticker
+
+! 9/26/2017, 12:45:14 AM https://www.theguardian.com/world/2015/jun/09/north-korea-street-food-speciality
+www.theguardian.com##.site-message
+
+! 28/09/2017 à 14:49:41 https://www.ft.com/
+www.ft.com##.n-sliding-popup
+
+! 28/09/2017 à 15:01:02 https://www.ft.com/
+www.ft.com##.card__classifier
+
+! 28/09/2017 à 18:00:32 https://www.facebook.com/
+www.facebook.com###outdatedBrowserBanner
+
+! 28/09/2017 à 19:20:03 http://www.francetvinfo.fr/economie/emploi/video-cash-investigation-travail-vis-ma-vie-de-manutentionnaire-chez-lidl_2381539.html
+www.francetvinfo.fr###cookie-cnil-box
+
+! 28/09/2017 à 22:55:08 https://www.youtube.com/?hl=FR
+www.youtube.com##.alerts-wrapper
+
+! 29/09/2017 à 14:11:31 http://www.pcgamer.com/behind-the-addictive-psychology-and-seductive-art-of-loot-boxes/
+www.pcgamer.com##.cc-banner.cc-window
+
+! 30/09/2017 à 12:57:59 https://www.nikkei.com/
+www.nikkei.com###JSID_baseModalBackground
+
+! 30/09/2017 à 12:58:06 https://www.nikkei.com/
+www.nikkei.com##.cmnc-engwrapper
+
+! 30/09/2017 à 13:01:54 https://asia.nikkei.com/Life-Arts/Arts/Bandai-Namco-to-bow-out-of-overseas-anime-streaming?page=2
+||asia.nikkei.com/images/bg_black60.png$image
+
+! 30/09/2017 à 13:01:59 https://asia.nikkei.com/Life-Arts/Arts/Bandai-Namco-to-bow-out-of-overseas-anime-streaming?page=2
+asia.nikkei.com###modal_gd04_01_cp
+
+! 30/09/2017 à 13:43:55 https://www.dn.se/
+www.dn.se##.account-information__tooltip__content
+
+! 30/09/2017 à 21:23:15 https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=6788985
+sverigesradio.se###user-message
+
+! 30/09/2017 à 22:34:24 http://www.breitbart.com/big-government/2012/04/26/liberal-bias-starts-in-high-school-economics/
+www.breitbart.com###cin_slideup
+
+! 02/10/2017 à 20:33:21 https://www.handelsbanken.se/sv/
+www.handelsbanken.se##shb-cookie-accept
+
+! 04/10/2017 à 12:07:02 http://www.bbc.com/news/world-europe-41493014
+www.bbc.com###bbccookies
+
+! 08/10/2017 à 10:54:17 https://github.com/Synzvato/decentraleyes
+github.com##.unsupported-browser
+
+! 10/10/2017 à 08:33:15 https://www.facebook.com/
+www.facebook.com###outdatedBrowserBanner
+
+! 10/10/2017 à 11:38:28 https://www.spotify.com/se/password-reset/
+www.spotify.com###js-message-bar-cookie-notice
+
+! 10/10/2017 à 21:42:07 http://urplay.se/
+urplay.se###browser-support-announcement > .content
+
+! 12/10/2017 à 15:24:03 http://www.internetmedicin.se/
+www.internetmedicin.se###CookieWrapper
+
+! 12/10/2017 à 16:49:17 https://ww2.kqed.org/mindshift/2013/12/05/age-of-distraction-why-its-crucial-for-students-to-learn-to-focus/
+ww2.kqed.org###EurekaKing
+
+! 15/10/2017 à 22:04:52 https://www.newscientist.com/article/2150324-horses-bred-to-look-like-cartoons-are-part-of-a-worrying-trend/
+www.newscientist.com###registration-barrier
+
+! 17/10/2017 à 00:29:40 https://qz.com/1088056/a-naturopaths-fight-against-her-alma-mater-shows-how-to-break-out-of-echo-chambers/
+qz.com###chyron-message
+
+! 17/10/2017 à 12:02:41 https://www.economist.com/news/finance-and-economics/21623756-governments-are-souring-treaties-protect-foreign-investors-arbitration
+www.economist.com##.cookie-message
+
+! 18/10/2017 à 17:19:26 https://alternativeto.net/
+alternativeto.net###bottomNotifierContent
+
+! 18/10/2017 à 17:39:43 https://www.dn.se/
+www.dn.se##.js-bottom-bar
+
+! 19/10/2017 à 13:18:18 https://www.dn.se/
+www.dn.se##.takeover
+
+! 19/10/2017 à 13:56:17 https://www.rollingstone.com/glixel/news/how-activision-uses-matchmaking-tricks-to-sell-in-game-items-w509288
+www.rollingstone.com###euNotice
+
+! 22/10/2017 à 11:02:13 https://www.nytimes.com/2017/10/21/opinion/sunday/jimmy-carter-lusts-trump-posting.html
+www.nytimes.com###newsletter-promo
+
+! 22/10/2017 à 11:15:07 https://fundly.com/help-an-internationalist-get-home
+fundly.com###myModal
+
+! 22/10/2017 à 12:11:55 https://beta.theglobeandmail.com/report-on-business/careers/management/is-workplace-loyalty-dead-in-the-age-of-the-millennial/article36675517/
+beta.theglobeandmail.com##.o-sub-pencil__box
+
+! 22/10/2017 à 15:28:50 https://nyheter24.se/nyheter/inrikes/837572-forskning-unga-blir-allt-samre-pa-ordforstaelse
+nyheter24.se###dzkwfrzwyyyibvxnkkb
+
+! 25/10/2017 à 09:08:32 https://www.google.se/?gfe_rd=cr&dcr=0&ei=ZzjwWc_ZBeuO8QeRwKTwAQ
+www.google.se##.iSMss_H9PhDI-NEtT1Mcs_w8.fAwjXaCTMo5__visible._SRg.fAwjXaCTMo5__overlay
+
+! 25/10/2017 à 09:09:40 https://www.google.se/search?dcr=0&source=hp&q=https%3A%2F%2F1.bp.blogspot.com%2F-Du8Sl0oh154%2FTteHF0YxfBI%2FAAAAAAAAsnM%2FK7BIsS71kxU%2Fs1600%2FJacques%2BMajorelle%2B-%2BTutt%252527Art%252540%2B%25252820%252529.jpg&oq=https%3A%2F%2F1.bp.blogspot.com%2F-Du8Sl0oh154%2FTteHF0YxfBI%2FAAAAAAAAsnM%2FK7BIsS71kxU%2Fs1600%2FJacques%2BMajorelle%2B-%2BTutt%252527Art%252540%2B%25252820%252529.jpg&gs_l=psy-ab.3...5948.5948.0.6188.1.1.0.0.0.0.0.0..0.0....0...1.2.64.psy-ab..1.0.0....0.rksYnqNJEHQ
+www.google.se##.fAwjXaCTMo5__overlay
+
+! 30/10/2017 à 19:53:57 https://www.facebook.com/
+www.facebook.com###outdatedBrowserBanner
+
+! 30/10/2017 à 22:47:48 https://auctionet.com/sv
+auctionet.com##.js-cookie-notice.test-cookie-notice.cookie-notice
+
+! 30/10/2017 à 22:49:34 https://books.google.se/books?id=uHej_7BrQXYC&pg=PA109&lpg=PA109&dq=conformity+in+1984&source=bl&ots=AjKPA-lqqs&sig=q6URYozqcKfvKKKQP1iKrqLBs4Q&hl=fr&sa=X&redir_esc=y#v=onepage&q=conformity%20in%201984&f=false
+books.google.se##.gb_Ka
+
+! 30/10/2017 à 22:49:58 https://books.google.se/books?id=uHej_7BrQXYC&pg=PA109&lpg=PA109&dq=conformity+in+1984&source=bl&ots=AjKPA-lqqs&sig=q6URYozqcKfvKKKQP1iKrqLBs4Q&hl=fr&sa=X&redir_esc=y#v=onepage&q=conformity%20in%201984&f=false
+books.google.se##.gb_Qa
+
+! 30/10/2017 à 22:50:14 https://books.google.se/books?id=uHej_7BrQXYC&pg=PA109&lpg=PA109&dq=conformity+in+1984&source=bl&ots=AjKPA-lqqs&sig=q6URYozqcKfvKKKQP1iKrqLBs4Q&hl=fr&sa=X&redir_esc=y#v=onepage&q=conformity%20in%201984&f=false
+books.google.se##.gb_Ja
+
+! 01/11/2017 à 15:17:09 https://www.trygghansa.se/kundservice/privat/pages/logga-in.aspx?redirectpath=/kundservice/inloggad-privat/mina-forsakringar
+www.trygghansa.se##.cookieInformation
+
+! 05/11/2017 à 20:14:21 https://www.counterpunch.org/2017/11/03/whos-afraid-of-corporate-cointelpro/
+www.counterpunch.org##.topfixedtrailer.query_box
+
+! 05/11/2017 à 21:38:08 https://oresundstag.se/
+oresundstag.se##.CookieAlert
+
+! 08/11/2017 à 11:31:08 http://www.greenpeace.org/sweden/se/
+www.greenpeace.org##.cookiebar
+
+! 08/11/2017 à 12:11:21 https://digitalsynopsis.com/design/reflections-of-the-past-tom-hussey/
+digitalsynopsis.com##.COEJIABiJyLE-bg
+
+! 08/11/2017 à 12:11:28 https://digitalsynopsis.com/design/reflections-of-the-past-tom-hussey/
+digitalsynopsis.com##.COEJIABiJyLE-default
+
+! 08/11/2017 à 12:11:40 https://digitalsynopsis.com/design/reflections-of-the-past-tom-hussey/
+digitalsynopsis.com##.close-COEJIABiJyLE.close-modal
+
+! 09/11/2017 à 08:36:15 https://www.ft.com/content/bfe61952-be91-11e7-9836-b25f8adaa111
+www.ft.com##.o-share-wrapper
+
+! 09/11/2017 à 10:06:04 https://www.truthdig.com/articles/wild-nights/
+www.truthdig.com##.sidebar__ad-label
+
+! 09/11/2017 à 11:03:03 http://www.internetmedicin.se/
+||www.internetmedicin.se/imgCont/banner/$image
+
+! 09/11/2017 à 11:03:14 http://www.internetmedicin.se/
+||www.internetmedicin.se/banner/$subdocument
+
+! 09/11/2017 à 11:05:07 http://icd.internetmedicin.se/CHA2DS2-VASc
+||imlogin.se/image/$image
+
+! 09/11/2017 à 11:06:02 http://icd.internetmedicin.se/CHA2DS2-VASc
+icd.internetmedicin.se##.fs2
+
+! 09/11/2017 à 11:06:21 http://icd.internetmedicin.se/CHA2DS2-VASc
+icd.internetmedicin.se##.fsr
+
+! 09/11/2017 à 11:06:29 http://icd.internetmedicin.se/CHA2DS2-VASc
+||imlogin.se/script/2gsz-oz5ao4$subdocument
+
+! 09/11/2017 à 11:06:59 http://icd.internetmedicin.se/CHA2DS2-VASc
+icd.internetmedicin.se###dMF_2
+
+! 09/11/2017 à 11:07:04 http://icd.internetmedicin.se/CHA2DS2-VASc
+icd.internetmedicin.se###dMF_1
+
+! 09/11/2017 à 11:07:11 http://icd.internetmedicin.se/CHA2DS2-VASc
+icd.internetmedicin.se###dMF_4
+
+! 09/11/2017 à 11:07:16 http://icd.internetmedicin.se/CHA2DS2-VASc
+icd.internetmedicin.se###dMF_5
+
+! 09/11/2017 à 13:38:43 http://www.internetmedicin.se/
+||www.internetmedicin.se/images/aprofil/$image
+
+! 09/11/2017 à 13:38:49 http://www.internetmedicin.se/
+www.internetmedicin.se##.AProfileInfo
+
+! 09/11/2017 à 13:38:55 http://www.internetmedicin.se/
+www.internetmedicin.se##.AProfileBox
+
+! 09/11/2017 à 13:47:01 https://www.facebook.com/
+www.facebook.com###outdatedBrowserBanner
+
+! 09/11/2017 à 14:45:56 http://classically.me/blogs/how-clear-hsts-settings-major-browsers
+classically.me###ccc-state
+
+! 09/11/2017 à 23:23:33 https://gizmodo.com/logitech-will-be-intentionally-bricking-all-harmony-lin-1820279591/amp
+gizmodo.com##.ad-mobile
+
+! 10/11/2017 à 09:18:28 https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads/transcript
+www.ted.com##._Notice_1u8we_22
+
+! 10/11/2017 à 21:03:44 http://www.dplay.se/kanal5/
+www.dplay.se##.fusion-modal-bg
+
+! 10/11/2017 à 21:03:57 http://www.dplay.se/kanal5/
+www.dplay.se##.show.cookie-notification
+
+! 10/11/2017 à 21:04:49 https://secure.dplay.se/registration/sign-up
+secure.dplay.se##.show.cookie-notification
+
+! 10/11/2017 à 21:06:23 https://www.comhem.se/tv
+www.comhem.se##.cookie-bar
+
+! 10/11/2017 à 21:22:53 https://www.dn.se/
+www.dn.se##.personal-carousel.js-personal-carousel
+
+! 10/11/2017 à 22:35:52 https://mp.uu.se/web/info/stod/it-telefoni/inloggning/losenord
+mp.uu.se###not-logged-in-wrapper
+
+! 10/11/2017 à 22:46:09 https://www.karger.com/Article/FullText/441627
+www.karger.com##.cc_container--open
+
+! 12/11/2017 à 23:16:08 https://worldofwarcraft.com/en-gb/battle-for-azeroth/features/allied-races
+worldofwarcraft.com##.is-open.Navbar-cookieCompliance.Navbar-toast > .Navbar-toastContainer > .Navbar-toastContent
+
+! 12/11/2017 à 23:16:15 https://worldofwarcraft.com/en-gb/battle-for-azeroth/features/allied-races
+worldofwarcraft.com##.is-open.Navbar-cookieCompliance
+
+! 13/11/2017 à 00:46:16 https://www.engadget.com/gaming/
+www.engadget.com##.pb-25
+
+! 13/11/2017 à 00:46:30 https://www.engadget.com/gaming/
+www.engadget.com##.pb-25\@tp\+.pb-15\@m-.pt-25\@tp\+.pt-15\@m-.c-white.bg-blue
+
+! 13/11/2017 à 08:11:02 https://www.pinterest.com/sondraseamster/cartoons/
+www.pinterest.com##div:nth-of-type(4) > div:nth-of-type(3)
+
+! 13/11/2017 à 08:19:28 https://www.pinterest.com/pin/573153490062305080/
+www.pinterest.com##.FullPageModal__scroller
+
+! 13/11/2017 à 08:19:35 https://www.pinterest.com/pin/573153490062305080/
+www.pinterest.com##body > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div:nth-of-type(2)
+
+! 13/11/2017 à 09:36:31 https://www.amazon.com/Think-Tanks-America-Thomas-Medvetz/dp/022614366X
+www.amazon.com##.a-declarative.a-modal-scroller
+
+! 13/11/2017 à 09:52:25 http://www.moddb.com/mods/gmdx
+www.moddb.com##a[href="http://bit.ly/2hQw0q9"]
+
+! 13/11/2017 à 09:52:34 http://www.moddb.com/mods/gmdx
+||media.moddb.com/images/articles/1/130/129687/v38b7hno4t3v8byu4t3v.jpg$image
+
+
+! 13/11/2017 à 09:52:45 http://www.moddb.com/mods/gmdx
+www.moddb.com##.cc_container--open.cc_container.cc_banner
+
+##ouibounceModal
+##.in.fade.modal-backdrop
+
+! 13/11/2017 à 22:02:49 http://jkarakizi.com/how-to-run-acestream-on-mac-os-x/
+jkarakizi.com##.wpoi-popup-overlay
+
+! 13/11/2017 à 22:02:57 http://jkarakizi.com/how-to-run-acestream-on-mac-os-x/
+jkarakizi.com##.wpoi-show
+
+! 13/11/2017 à 22:03:03 http://jkarakizi.com/how-to-run-acestream-on-mac-os-x/
+jkarakizi.com##.wph-modal--noheader.wph-modal--content
+
+! 13/11/2017 à 22:35:16 http://www.navixsport.com/sport.php?id=3273&page=yxslklkmslkmyslkmm
+www.navixsport.com###adtu1
+
+! 14/11/2017 à 00:38:27 http://www.worights.cf/2017/11/a-christmas-wish-dont-cut-down-my.html
+www.worights.cf###cookieChoiceInfo
+
+! 14/11/2017 à 16:45:41 https://go.canaldigital.se/home
+go.canaldigital.se##.xsCookieConsent
+
+! 15/11/2017 à 10:02:06 https://www.deviantart.com/?section=&global=1&q=azeroth
+||st.deviantart.net/misc/updatebrowser_ylw_bg.png$image
+
+! 15/11/2017 à 10:02:13 https://www.deviantart.com/?section=&global=1&q=azeroth
+www.deviantart.com###update-browser-banner
+
+! 15/11/2017 à 10:33:21 https://www.reddit.com/r/politics/
+www.reddit.com##.listingsignupbar__container.login-required
+
+! 16/11/2017 à 11:40:17 https://www.twitch.tv/kylerebelzize
+www.twitch.tv##.eu-cookie-alert__body
+
+! 16/11/2017 à 11:40:32 https://www.twitch.tv/kylerebelzize
+www.twitch.tv##.fixed.justify-content-center.flex-column.align-items-center.toast-manager__container > .mg-b-2 > .full-width
+
+! 16/11/2017 à 13:25:36 https://www.spectator.co.uk/2017/01/what-explains-the-idiocy-of-the-liberal-elite-its-their-education/
+www.spectator.co.uk##.spev-modal-wrapper
+
+! 16/11/2017 à 13:25:48 https://www.spectator.co.uk/2017/01/what-explains-the-idiocy-of-the-liberal-elite-its-their-education/
+www.spectator.co.uk##.spev-countdown--active
+
+! 16/11/2017 à 13:27:26 https://www.spectator.co.uk/2017/01/what-explains-the-idiocy-of-the-liberal-elite-its-their-education/
+www.spectator.co.uk##.email-newsletter
+
+! 16/11/2017 à 22:33:44 https://www.independent.co.uk/news/health/tory-austerity-deaths-study-report-people-die-social-care-government-policy-a8057306.html
+www.independent.co.uk##.sticky.video-popout-wrap
+
+! 16/11/2017 à 22:34:17 https://www.independent.co.uk/news/health/tory-austerity-deaths-study-report-people-die-social-care-government-policy-a8057306.html
+www.independent.co.uk##.inline-block-left.inline-block-related-single.inline-block
+
+! 16/11/2017 à 23:21:18 https://www.flashback.org/t2708381p3
+www.flashback.org##.post-banner-container
+
+! 17/11/2017 à 15:25:35 https://www.reddit.com/user/Raeene/
+www.reddit.com##.morelink
+
+! 17/11/2017 à 15:25:43 https://www.reddit.com/user/Raeene/
+www.reddit.com##.goldvertisement
+
+! 17/11/2017 à 15:25:52 https://www.reddit.com/user/Raeene/
+www.reddit.com##.giftgold
+
+! 17/11/2017 à 16:31:28 https://www.twitch.tv/totalbiscuit
+www.twitch.tv##.noty_message
+
+! 17/11/2017 à 16:31:54 https://www.twitch.tv/totalbiscuit
+www.twitch.tv###noty_bottomCenter_layout_container
+
+! 19/11/2017 à 12:27:29 https://evonomics.com/look-behind-neoliberal-economist-youll-discover-rich-economic-theories-serve-big-business/?platform=hootsuite
+evonomics.com###megasubscribepopup_overlay
+
+! 19/11/2017 à 12:27:37 https://evonomics.com/look-behind-neoliberal-economist-youll-discover-rich-economic-theories-serve-big-business/?platform=hootsuite
+evonomics.com###megasubscribepopup_content
+
+! 19/11/2017 à 12:27:44 https://evonomics.com/look-behind-neoliberal-economist-youll-discover-rich-economic-theories-serve-big-business/?platform=hootsuite
+evonomics.com###megasubscribepopup_window
+
+! 19/11/2017 à 12:27:54 https://evonomics.com/look-behind-neoliberal-economist-youll-discover-rich-economic-theories-serve-big-business/?platform=hootsuite
+evonomics.com##.optshorts
+
+! 19/11/2017 à 12:28:10 https://evonomics.com/look-behind-neoliberal-economist-youll-discover-rich-economic-theories-serve-big-business/?platform=hootsuite
+evonomics.com###text-14
+
+! 20/11/2017 à 00:06:13 https://sourceforge.net/projects/freemind/files/freemind/1.0.1/FreeMind_1.0.1.dmg/download
+sourceforge.net###newsletter-floating
+
+! 20/11/2017 à 00:06:25 https://sourceforge.net/projects/freemind/files/freemind/1.0.1/FreeMind_1.0.1.dmg/download
+sourceforge.net##.dlp_newsletter_subscribe
+
+! 20/11/2017 à 01:24:40 https://www.amazon.co.uk/Will-Make-You-Click-Revealed/dp/1505470277
+www.amazon.co.uk##.a-declarative.a-modal-scroller
+
+! 20/11/2017 à 01:24:47 https://www.amazon.co.uk/Will-Make-You-Click-Revealed/dp/1505470277
+www.amazon.co.uk###a-popover-lgtbox
+
+! 20/11/2017 à 08:41:56 https://www.amazon.co.uk/Tyranny-Choice-Big-Ideas/dp/1846681863/ref=sr_1_sc_1?ie=UTF8&qid=1511163691&sr=8-1-spell&keywords=the+tyrranny+of+choice
+www.amazon.co.uk##.nav-flyout.nav-signin-tt
+
+! 20/11/2017 à 08:42:07 https://www.amazon.co.uk/Tyranny-Choice-Big-Ideas/dp/1846681863/ref=sr_1_sc_1?ie=UTF8&qid=1511163691&sr=8-1-spell&keywords=the+tyrranny+of+choice
+www.amazon.co.uk###nav-flyout-anchor
+
+! 20/11/2017 à 08:42:15 https://www.amazon.co.uk/Tyranny-Choice-Big-Ideas/dp/1846681863/ref=sr_1_sc_1?ie=UTF8&qid=1511163691&sr=8-1-spell&keywords=the+tyrranny+of+choice
+||images-eu.ssl-images-amazon.com/images/G/02/digital/fiona/general/green-fade-background._CB214438069_.gif$image
+
+! 20/11/2017 à 08:42:29 https://www.amazon.co.uk/Tyranny-Choice-Big-Ideas/dp/1846681863/ref=sr_1_sc_1?ie=UTF8&qid=1511163691&sr=8-1-spell&keywords=the+tyrranny+of+choice
+www.amazon.co.uk###dp > div:nth-of-type(3)
+
+! 22/11/2017 à 22:29:51 https://azetterlund.blogspot.se/2013/04/en-glad-lappkudde.html
+azetterlund.blogspot.se###cookieChoiceInfo
+
+! 23/11/2017 à 11:01:32 https://encrypted.google.com/search?q=sci-hub&hl=fr&source=lnms&tbm=nws&sa=X&ved=0ahUKEwj32NKluNTXAhVSalAKHcU8BZkQ_AUICigB&biw=1680&bih=882&dpr=2
+encrypted.google.com###epbar
+
+! 23/11/2017 à 11:37:47 https://www.svensktnaringsliv.se/fragor/ratt-till-heltid/
+www.svensktnaringsliv.se###warning
+
+! 23/11/2017 à 11:38:19 https://www.socialdemokraterna.se/aktuellt/nyhetsarkiv/ratt-till-heltid/
+www.socialdemokraterna.se##.cookies-area
+
+! 23/11/2017 à 11:39:14 https://www.finansforbundet.se/Dina-rattigheter/Arbetstid/Arbeta-deltid/
+www.finansforbundet.se##.full-width.pull-left.hidden-print.cookie-warning-container.alert-info.alert
+
