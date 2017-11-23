@@ -10,7 +10,7 @@
 www.di.se##.di_message-space--logged-out.di_message-space
 www.prisjakt.nu##.inline-panorama-ad
 www.prisjakt.nu##.black-friday
-
+www.sweclockers.com##.hfix > .banner
 
 http://freewheel.mtgx.tv/m/1/381929/1
 http://freewheel.mtgx.tv/m/1/381929/2
