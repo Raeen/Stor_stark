@@ -1,0 +1,41 @@
+www.di.se##.di_message-space--logged-out.di_message-space
+www.prisjakt.nu##.inline-panorama-ad
+www.prisjakt.nu##.black-friday
+
+
+http://freewheel.mtgx.tv/m/1/381929/1
+http://freewheel.mtgx.tv/m/1/381929/2
+http://freewheel.mtgx.tv/m/1/381929/3
+http://freewheel.mtgx.tv/m/1/381929/4
+http://freewheel.mtgx.tv/m/1/381929/5
+http://freewheel.mtgx.tv/m/1/381929/6
+http://freewheel.mtgx.tv/m/1/381929/7
+http://freewheel.mtgx.tv/m/1/381929/8
+http://freewheel.mtgx.tv/m/1/381929/0
+http://freewheel.mtgx.tv/m/1/381929/a
+|http://freewheel.mtgx.tv/static/
+1024x576.mp4
+
+www.aftonbladet.se##.abThemeGradientPage
+omni.se##.article--compact.article--sponsored
+www.svd.se###.u-noPrint.Body-pull--fullWidth
+www.svd.se##.theme-Native
+www.dn.se###header__row--top > .header__menu--visible.js-top-right-menu.js-top-menu.header__menu--hidden.header__menu--right.header__menu > .js-login-button.header__item--seperator.header__item--tight.header__item
+www.dn.se###header__row--top > .header__menu--visible.js-top-right-menu.js-top-menu.header__menu--hidden.header__menu--right.header__menu > .js-signup-button.hidden-xxxs.header__item
+www.dn.se###header__row--top > .header__menu--visible.js-top-right-menu.js-top-menu.header__menu--hidden.header__menu--right.header__menu > .hidden-xs.header__item
+www.dn.se##.page--flush-top.page.js-page > .page__grid.grid > .js-main-ad-container.unit-offset--right.lg-unit-offset--250.unit--1-1.grid__item > .js-article-page > .js-reading-list > .article-preview--visible.article-preview.js-article-preview
+www.dn.se##.page--flush-top.page.js-page > .page__grid.grid > .js-main-ad-container.unit-offset--right.lg-unit-offset--250.unit--1-1.grid__item > .js-article-page > .js-reading-list > .js-article:nth-of-type(1) > .dn-color-section-nyheter--modifier.dn-color-section-nyheter.article > .article__body > .article__premium-content > .js-social-toolbar.article-toolbar:nth-of-type(1)
+pixabay.com###media_show > .right > .sponsored.flex_grid
+pixabay.com###media_show > .right > p
+pixabay.com###content > .media_list > div:nth-of-type(2)
+pixabay.com###side_message
+9gag.com###overlay-container
+www.google.se###wmxmsg
+www.google.se###tads
+hbr.org##.persistent-banner
+zowie.benq.com##.cookies-tip
+www.youtube.com###ticker
+www.eater.com###notice
+www.vox.com###notice
+www.dn.se###pwOverlay
+
