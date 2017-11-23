@@ -23,9 +23,10 @@ http://freewheel.mtgx.tv/m/1/381929/8
 http://freewheel.mtgx.tv/m/1/381929/0
 http://freewheel.mtgx.tv/m/1/381929/a
 |http://freewheel.mtgx.tv/static/
-1024x576.mp4
 
-www.aftonbladet.se##.abThemeGradientPage
+www.svd.se##.ContentLayout-metaColumn
+
+!www.aftonbladet.se##.abThemeGradientPage
 omni.se##.article--compact.article--sponsored
 www.svd.se###.u-noPrint.Body-pull--fullWidth
 www.svd.se##.theme-Native
